@@ -58,7 +58,7 @@ def testfun(ntimes):
 
 if __name__ == "__main__":
     for i in range(1, 16):
-        print (i, 'started, -------')
+        print(i, 'started, -------')
         a = time.time()
         testcases = [30 for _ in range(33)]
         testcases.append(10)
