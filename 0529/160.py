@@ -12,9 +12,9 @@ class Solution:
         last = len(nums) - 1
         while start + 1 < end:
             mid = start + (end - start) / 2
-            if nums[mid] == nums[-1]:
+            if nums[mid] == nums[end]:
                 start += 1
-            elif nums[mid] < nums[-1]:
+            elif nums[mid] < nums[end]:
                 end = mid
             else:# nums[mid] > nums[-1]
                 start = mid
