@@ -14,10 +14,10 @@ class Solution:
             mid = start + (end - start) / 2
             if nums[mid] == nums[-1]:
                 start += 1
-            elif nums[mid] > nums[-1]:
-                start = mid
-            else:
+            elif nums[mid] < nums[-1]:
                 end = mid
+            else:
+                start = mid
             print start, mid, end
         if nums[start] < nums[-1]:
             return nums[start]
