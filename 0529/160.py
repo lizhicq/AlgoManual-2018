@@ -16,7 +16,7 @@ class Solution:
                 start += 1
             elif nums[mid] < nums[-1]:
                 end = mid
-            else:
+            else:# nums[mid] > nums[-1]
                 start = mid
             print start, mid, end
         if nums[start] < nums[-1]:
