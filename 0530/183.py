@@ -25,5 +25,8 @@ class Solution:
         return num >= k
 
 
+
+
+
 if __name__ == "__main__":
     print Solution().woodCut([232, 124, 456], 7)
