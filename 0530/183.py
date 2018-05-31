@@ -19,6 +19,7 @@ class Solution:
 
     def check(self, mid, L, k):# check if mid is small enough to make more than k woods
         num = 0
+
         for wood in L:
             num += wood // mid
         return num >= k
