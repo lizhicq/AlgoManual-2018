@@ -3,11 +3,15 @@ class Solution:
     @param A: an integer array
     @return: nothing
     """
-    def sortIntegers2(self, A):
-        pass
+    def sortIntegers2(self, A): # A.sort() Your submission beats 98.00% Submissions!
+        lo, hi = 0, len(A) - 1
+        self.quicksort(A, lo, hi)
 
-    def quicksort(self, nums):
-        pass
+    def quicksort(self, nums, lo, hi):# Your submission beats 67.20% Submissions!
+        if lo < hi:
+            p = self.partition(nums, lo, hi)
+            self.quicksort(nums, lo, p-1)
+            self.quicksort(nums, p+1, hi)
 
     def partition(self, nums, lo, hi):
         pvt = lo
@@ -16,7 +20,6 @@ class Solution:
                 nums[i], nums[pvt] = nums[pvt], nums[i]
                 pvt += 1
         nums[pvt], nums[hi] = nums[hi], nums[pvt]
-        print nums
         return pvt
 
     def mergesort(self, nums):
