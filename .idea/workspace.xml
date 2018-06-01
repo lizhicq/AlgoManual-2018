@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="19dffaa6-d61f-4c72-bbbf-5a6b4dde1887" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0601/464. Sort Integers II.py" beforeDir="false" afterPath="$PROJECT_DIR$/0601/464. Sort Integers II.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,8 +37,8 @@
       <file leaf-file-name="464. Sort Integers II.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/0601/464. Sort Integers II.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+            <state relative-caret-position="306">
+              <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -202,7 +201,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="464. Sort Integers II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="464. Sort Integers II" type="PythonConfigurationType" factoryName="Python">
       <module name="TestProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -221,14 +220,13 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
+      <item itemvalue="Python.464. Sort Integers II" />
       <item itemvalue="Python.160" />
       <item itemvalue="Python.437" />
       <item itemvalue="Python.183" />
-      <item itemvalue="Python.464. Sort Integers II" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.464. Sort Integers II" />
         <item itemvalue="Python.183" />
         <item itemvalue="Python.437" />
         <item itemvalue="Python.160" />
@@ -358,7 +356,14 @@
       <option name="project" value="LOCAL" />
       <updated>1527864929342</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="&#10;update">
+      <created>1527877625139</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1527877625139</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TodoView">
@@ -372,7 +377,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1140" y="0" width="1160" height="967" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49908924" visible="true" weight="0.20747997" />
       <window_info id="TODO" order="2" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
@@ -429,7 +433,8 @@
     <MESSAGE value="test" />
     <MESSAGE value="0530" />
     <MESSAGE value="&#10;update" />
-    <option name="LAST_COMMIT_MESSAGE" value="&#10;update" />
+    <MESSAGE value="0601, sort algorithms" />
+    <option name="LAST_COMMIT_MESSAGE" value="0601, sort algorithms" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -706,8 +711,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0601/464. Sort Integers II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        <state relative-caret-position="306">
+          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
         </state>
       </provider>
     </entry>
