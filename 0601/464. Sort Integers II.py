@@ -8,6 +8,13 @@ class Solution:
 
     def quicksort(self, nums):
 
-    def mergesort(self, nums):
 
+    def partition(self, nums, lo, hi):
+        pivot = nums[hi]
+
+
+
+    def mergesort(self, nums):
+        pass
     def heapsort(self, nums):
+        pass
