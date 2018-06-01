@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/0601/464. Sort Integers II.py" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="19dffaa6-d61f-4c72-bbbf-5a6b4dde1887" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/0601/464. Sort numbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0601/464. Sort Integers II.py" beforeDir="false" afterPath="$PROJECT_DIR$/0601/464. Sort Integers II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0601/31. Partition Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/0601/31. Partition Array.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0601/464. Sort Integers II.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,11 +37,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="464. Sort Integers II.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/0601/464. Sort Integers II.py">
+      <file leaf-file-name="464. Sort numbers.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0601/464. Sort numbers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="199">
-              <caret line="68" column="13" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
+            <state relative-caret-position="314">
+              <caret line="75" column="25" selection-start-line="75" selection-start-column="25" selection-end-line="75" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="31. Partition Array.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0601/31. Partition Array.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="530">
+              <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -76,6 +84,8 @@
         <option value="$PROJECT_DIR$/0531/464. Sort Integers II.py" />
         <option value="$PROJECT_DIR$/0531/521.py" />
         <option value="$PROJECT_DIR$/0601/464. Sort Integers II.py" />
+        <option value="$PROJECT_DIR$/0601/464. Sort numbers.py" />
+        <option value="$PROJECT_DIR$/0601/31. Partition Array.py" />
       </list>
     </option>
   </component>
@@ -150,7 +160,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.464. Sort Integers II">
+  <component name="RunManager" selected="Python.31. Partition Array">
     <configuration name="160" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TestProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -182,6 +192,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0530/183.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="31. Partition Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TestProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0601" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0601/31. Partition Array.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -228,9 +256,11 @@
       <item itemvalue="Python.160" />
       <item itemvalue="Python.437" />
       <item itemvalue="Python.183" />
+      <item itemvalue="Python.31. Partition Array" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.31. Partition Array" />
         <item itemvalue="Python.183" />
         <item itemvalue="Python.437" />
         <item itemvalue="Python.160" />
@@ -395,7 +425,14 @@
       <option name="project" value="LOCAL" />
       <updated>1527886955270</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="0601, sort algorithms">
+      <created>1527894220336</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1527894220336</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TodoView">
@@ -411,12 +448,12 @@
     <frame x="1140" y="0" width="1160" height="967" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49908924" visible="true" weight="0.17364202" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49908924" visible="true" weight="0.20391807" />
       <window_info id="TODO" order="2" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
       <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.34408602" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.32855436" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22341697" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22341697" />
       <window_info id="Structure" order="1" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3297491" />
       <window_info id="Favorites" order="3" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
@@ -765,8 +802,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0601/464. Sort Integers II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="68" column="13" selection-start-line="68" selection-start-column="13" selection-end-line="68" selection-end-column="13" />
+        <state relative-caret-position="224">
+          <caret line="27" column="17" lean-forward="true" selection-end-line="88" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0601/464. Sort numbers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="75" column="25" selection-start-line="75" selection-start-column="25" selection-end-line="75" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0601/31. Partition Array.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="530">
+          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
         </state>
       </provider>
     </entry>
