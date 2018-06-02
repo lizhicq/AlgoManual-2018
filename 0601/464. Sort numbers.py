@@ -30,8 +30,6 @@ class Solution:
 
     def partition(self, nums, lo, hi):
         pvt = lo
-        mid = (lo + hi) // 2
-        nums[mid], nums[hi] = nums[hi], nums[mid]
         for i in range(lo, hi):
             if nums[i] < nums[hi]:
                 nums[i], nums[pvt] = nums[pvt], nums[i]
