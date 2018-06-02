@@ -5,13 +5,15 @@ class Solution:
     @return: The index after partition
     """
     def partitionArray(self, nums, k):
+        if len(nums) == 0:
+            return 0
         pvt = 0
         while pvt < len(nums):
             if nums[pvt] == k:
                 break
             pvt += 1
         if pvt == len(nums):
-            return - 1
+            return pvt if k > max(nums) else 0
         nums[pvt], nums[-1] = nums[-1], nums[pvt]
         pvt = self.partition(nums, 0, len(nums)-1)
         return pvt

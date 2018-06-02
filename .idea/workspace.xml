@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="19dffaa6-d61f-4c72-bbbf-5a6b4dde1887" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0601/__init__.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/0601/heapsort.py" beforeDir="false" afterPath="$PROJECT_DIR$/0601/heapsort.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,20 +17,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="heapsort.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="heapsort.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0601/heapsort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            <state relative-caret-position="230">
+              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="quicksort.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="mergesort.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0601/mergesort.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="23" column="18" lean-forward="true" selection-end-line="31" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="quicksort.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/0601/quicksort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="451">
-              <caret line="39" column="35" selection-start-line="39" selection-start-column="4" selection-end-line="40" selection-end-column="42" />
+            <state relative-caret-position="627">
+              <caret line="33" column="39" selection-end-line="42" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -76,7 +84,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="1710" />
     <option name="width" value="1740" />
-    <option name="height" value="1451" />
+    <option name="height" value="1452" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -86,6 +94,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -102,7 +111,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -129,7 +137,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.heapsort">
+  <component name="RunManager" selected="Python.31. Partition Array">
     <configuration name="183" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TestProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -248,10 +256,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.31. Partition Array" />
         <item itemvalue="Python.heapsort" />
         <item itemvalue="Python.mergesort" />
         <item itemvalue="Python.quicksort" />
-        <item itemvalue="Python.31. Partition Array" />
         <item itemvalue="Python.183" />
       </list>
     </recent_temporary>
@@ -442,7 +450,14 @@
       <option name="project" value="LOCAL" />
       <updated>1527898167775</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="0601, sort algorithms">
+      <created>1527949999230</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1527949999231</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TodoView">
@@ -455,19 +470,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1140" y="0" width="1160" height="967" extended-state="0" />
+    <frame x="1140" y="0" width="1160" height="968" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49908924" visible="true" weight="0.20391807" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49908924" visible="true" weight="0.2030276" />
       <window_info id="TODO" order="2" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
       <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22315036" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.34408602" />
-      <window_info anchor="bottom" id="Python Console" order="8" weight="0.32855436" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22341697" />
+      <window_info anchor="bottom" id="Python Console" order="8" weight="0.32816228" />
       <window_info id="Structure" order="1" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3297491" />
-      <window_info id="Favorites" order="3" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.23615384" />
+      <window_info id="Favorites" order="3" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -789,13 +804,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0601/464. Sort Integers II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="27" column="17" lean-forward="true" selection-end-line="88" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/0601/464. Sort Integers II.py" />
     <entry file="file://$PROJECT_DIR$/0601/31. Partition Array.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="392">
@@ -810,24 +819,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/0601/heapsort.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/0601/mergesort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="31" column="36" lean-forward="true" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+        <state relative-caret-position="437">
+          <caret line="23" column="18" lean-forward="true" selection-end-line="31" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/0601/quicksort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
-          <caret line="39" column="35" selection-start-line="39" selection-start-column="4" selection-end-line="40" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0601/heapsort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="627">
+          <caret line="33" column="39" selection-end-line="42" selection-end-column="14" />
         </state>
       </provider>
     </entry>

@@ -8,10 +8,13 @@ class Solution:
         hi = len(nums) - 1 if hi is None else hi
 
         # 1. build the heap
-        for i in range(hi//2, -1, -1):
+        for i in range(hi//2, lo-1, -1):
             self.maxheapify(nums, i, hi)
-
-        for i in range(hi, 0, -1):
+        # 2. delete top
+        for i in range(hi, lo, -1):
+            nums[lo], nums[i] = nums[i], nums[lo]
+            # after each iteration, largest goes to ith, next end at i-1
+            self.maxheapify(nums, lo, i-1)
 
     def maxheapify(self, nums, lo=None, hi=None):
         lo = 0 if lo is None else lo
@@ -40,9 +43,5 @@ if __name__ == "__main__":
     nums = [1,5,4,2,1,3,2,1,4,2,12,3,2,2,2]
     # build maxheap
     s = Solution()
-    for i in range(len(nums)//2 - 1, -1, -1):
-        Solution().maxheapify(nums, i, len(nums) - 1)
-    print nums
-    for i in range(len(nums)//2, -1, -1):
-        Solution().maxheapify(nums, i, len(nums) - 1)
+    s.heapsort(nums)
     print nums
