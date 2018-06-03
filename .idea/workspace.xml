@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19dffaa6-d61f-4c72-bbbf-5a6b4dde1887" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/0603/143. Sort Colors II.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0602/608. Two Sum II.py" beforeDir="false" afterPath="$PROJECT_DIR$/0602/608. Two Sum II.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -19,7 +21,7 @@
       <file leaf-file-name="heapsort.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0601/heapsort.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
+            <state relative-caret-position="190">
               <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
             </state>
           </provider>
@@ -29,7 +31,7 @@
         <entry file="file://$PROJECT_DIR$/0601/mergesort.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="437">
-              <caret line="23" column="18" lean-forward="true" selection-end-line="31" selection-end-column="36" />
+              <caret line="23" column="18" selection-end-line="31" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -46,15 +48,28 @@
       <file leaf-file-name="31. Partition Array.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0601/31. Partition Array.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="532">
+              <caret line="28" selection-start-line="28" selection-end-line="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="608. Two Sum II.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="608. Two Sum II.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0602/608. Two Sum II.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" column="41" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="143. Sort Colors II.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0603/143. Sort Colors II.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -92,13 +107,15 @@
         <option value="$PROJECT_DIR$/0601/heapsort.py" />
         <option value="$PROJECT_DIR$/0601/31. Partition Array.py" />
         <option value="$PROJECT_DIR$/0602/608. Two Sum II.py" />
+        <option value="$PROJECT_DIR$/0603/143. Sort Colors II.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1710" />
+    <option name="x" value="2790" />
+    <option name="y" value="-128" />
     <option name="width" value="1740" />
-    <option name="height" value="1452" />
+    <option name="height" value="1451" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -121,6 +138,11 @@
               <item name="TestProjects" type="462c0819:PsiDirectoryNode" />
               <item name="0602" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TestProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="0603" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -133,8 +155,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\lizhi\PycharmProjects\TestProjects\0601" />
       <recent name="C:\Users\lizhi\PycharmProjects\TestProjects" />
+      <recent name="C:\Users\lizhi\PycharmProjects\TestProjects\0601" />
       <recent name="C:\Users\lizhi\PycharmProjects\TestProjects\test" />
       <recent name="C:\Users\lizhi\PycharmProjects\TestProjects\0528" />
     </key>
@@ -151,8 +173,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.31. Partition Array">
-    <configuration name="183" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.143. Sort Colors II">
+    <configuration name="143. Sort Colors II" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TestProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,11 +182,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0530" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0603" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0530/183.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0603/143. Sort Colors II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,6 +228,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="608. Two Sum II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TestProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0602" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0602/608. Two Sum II.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="heapsort" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TestProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -242,39 +282,21 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="quicksort" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="TestProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0601" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0601/quicksort.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list>
       <item itemvalue="Python.464. Sort Integers II" />
-      <item itemvalue="Python.183" />
       <item itemvalue="Python.31. Partition Array" />
-      <item itemvalue="Python.quicksort" />
       <item itemvalue="Python.mergesort" />
       <item itemvalue="Python.heapsort" />
+      <item itemvalue="Python.608. Two Sum II" />
+      <item itemvalue="Python.143. Sort Colors II" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.143. Sort Colors II" />
+        <item itemvalue="Python.608. Two Sum II" />
         <item itemvalue="Python.31. Partition Array" />
         <item itemvalue="Python.heapsort" />
         <item itemvalue="Python.mergesort" />
-        <item itemvalue="Python.quicksort" />
-        <item itemvalue="Python.183" />
       </list>
     </recent_temporary>
   </component>
@@ -478,7 +500,14 @@
       <option name="project" value="LOCAL" />
       <updated>1527950785388</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="0602 update">
+      <created>1527950798640</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1527950798640</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TodoView">
@@ -491,19 +520,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1140" y="0" width="1160" height="968" extended-state="0" />
+    <frame x="2220" y="-128" width="1160" height="967" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49908924" visible="true" weight="0.2030276" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49908924" visible="true" weight="0.2030276" />
       <window_info id="TODO" order="2" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
       <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.22315036" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.34408602" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.32816228" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22222222" />
       <window_info id="Structure" order="1" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3297491" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.23615384" />
       <window_info id="Favorites" order="3" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.23615384" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -550,7 +579,8 @@
     <MESSAGE value="0530" />
     <MESSAGE value="&#10;update" />
     <MESSAGE value="0601, sort algorithms" />
-    <option name="LAST_COMMIT_MESSAGE" value="0601, sort algorithms" />
+    <MESSAGE value="0602 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="0602 update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -558,13 +588,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0531/521.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0530/183.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -828,7 +851,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0601/heapsort.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
+        <state relative-caret-position="190">
           <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
         </state>
       </provider>
@@ -836,7 +859,7 @@
     <entry file="file://$PROJECT_DIR$/0601/mergesort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="437">
-          <caret line="23" column="18" lean-forward="true" selection-end-line="31" selection-end-column="36" />
+          <caret line="23" column="18" selection-end-line="31" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -849,13 +872,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0601/31. Partition Array.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="532">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/0602/608. Two Sum II.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="41" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0603/143. Sort Colors II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="8" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
