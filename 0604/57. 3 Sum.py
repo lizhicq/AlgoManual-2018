@@ -11,10 +11,11 @@ class Solution:
 
     def dfs(self, tmp, start_index, res, numbers):
         print tmp, start_index
-        if len(tmp) == 3:
+        if len(tmp) == 3 or start_index == len(numbers) - 1:
             if sum(tmp) == 0:
                 #print tmp, start_index
                 res.append(tuple(tmp))
+            print 'return'
             return
         for i in range(start_index, len(numbers)):
             self.dfs(tmp + [numbers[i]], start_index+1, res, numbers)

@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19dffaa6-d61f-4c72-bbbf-5a6b4dde1887" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/0604/57. 3 Sum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0604/57. 3 Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/0604/57. 3 Sum.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,8 +20,8 @@
       <file leaf-file-name="57. 3 Sum.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/0604/57. 3 Sum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
-              <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+            <state relative-caret-position="411">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
         </entry>
@@ -479,7 +479,14 @@
       <option name="project" value="LOCAL" />
       <updated>1528050779365</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="0602 update">
+      <created>1528158672300</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1528158672300</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TodoView">
@@ -497,10 +504,10 @@
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49908924" visible="true" weight="0.20320855" />
       <window_info id="TODO" order="2" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
-      <window_info anchor="bottom" id="Event Log" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.50089127" side_tool="true" weight="0.22222222" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.34408602" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.32735962" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22222222" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49910873" visible="true" weight="0.22222222" />
       <window_info id="Structure" order="1" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3297491" />
       <window_info id="Favorites" order="3" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
@@ -552,7 +559,8 @@
     <MESSAGE value="&#10;update" />
     <MESSAGE value="0601, sort algorithms" />
     <MESSAGE value="0602 update" />
-    <option name="LAST_COMMIT_MESSAGE" value="0602 update" />
+    <MESSAGE value="0604 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="0604 update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -858,8 +866,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0604/57. 3 Sum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+        <state relative-caret-position="411">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
