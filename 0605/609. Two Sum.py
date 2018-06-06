@@ -34,6 +34,10 @@ class Solution:
 
 
 if __name__ == "__main__":
-    nums = [1, 0, -1]
-    target = 0
-    print Solution().twoSum5(nums, target)
+    nums = [2,7,11,15]
+    target = 24
+    from timeit import timeit
+    print timeit("Solution().twoSum5(nums, target)",
+           setup="from __main__ import Solution, nums, target", number=10000)
+    print timeit("Solution().twoSum5_method1(nums, target)",
+           setup="from __main__ import Solution, nums, target", number=10000)
