@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19dffaa6-d61f-4c72-bbbf-5a6b4dde1887" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/0607/894. Pancake Sorting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0607/610. Two Sum - Difference equals to target.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0607/894. Pancake Sorting.py" beforeDir="false" afterPath="$PROJECT_DIR$/0607/894. Pancake Sorting.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,15 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="57. 3 Sum.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0604/57. 3 Sum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" column="25" selection-end-line="25" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="609. Two Sum.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0605/609. Two Sum.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -89,11 +81,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="894. Pancake Sorting.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="894. Pancake Sorting.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0607/894. Pancake Sorting.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+            <state relative-caret-position="394">
+              <caret line="28" lean-forward="true" selection-end-line="31" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="610. Two Sum - Difference equals to target.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0607/610. Two Sum - Difference equals to target.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -156,6 +157,7 @@
         <option value="$PROJECT_DIR$/0607/Partition Array II.py" />
         <option value="$PROJECT_DIR$/0607/625. Partition Array II.py" />
         <option value="$PROJECT_DIR$/0607/894. Pancake Sorting.py" />
+        <option value="$PROJECT_DIR$/0607/610. Two Sum - Difference equals to target.py" />
       </list>
     </option>
   </component>
@@ -216,7 +218,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.894. Pancake Sorting">
+  <component name="RunManager" selected="Python.610. Two Sum - Difference equals to target">
     <configuration name="382. Triangle Count" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TestProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -230,24 +232,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0606/382. Triangle Count.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="443. Two Sum - Greater than target" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="TestProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0606" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0606/443. Two Sum - Greater than target.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -284,6 +268,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0601/464. Sort Integers II.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="610. Two Sum - Difference equals to target" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TestProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0607" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0607/610. Two Sum - Difference equals to target.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -327,19 +329,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.464. Sort Integers II" />
-      <item itemvalue="Python.443. Two Sum - Greater than target" />
       <item itemvalue="Python.461. Kth Smallest Numbers in Unsorted Array" />
       <item itemvalue="Python.382. Triangle Count" />
       <item itemvalue="Python.625. Partition Array II" />
       <item itemvalue="Python.894. Pancake Sorting" />
+      <item itemvalue="Python.610. Two Sum - Difference equals to target" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.610. Two Sum - Difference equals to target" />
         <item itemvalue="Python.894. Pancake Sorting" />
         <item itemvalue="Python.625. Partition Array II" />
         <item itemvalue="Python.382. Triangle Count" />
         <item itemvalue="Python.461. Kth Smallest Numbers in Unsorted Array" />
-        <item itemvalue="Python.443. Two Sum - Greater than target" />
       </list>
     </recent_temporary>
   </component>
@@ -641,7 +643,14 @@
       <option name="project" value="LOCAL" />
       <updated>1528410676156</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="0607">
+      <created>1528413249549</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1528413249549</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TodoView">
@@ -726,9 +735,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/test1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/test2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -1036,8 +1042,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0607/894. Pancake Sorting.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="15" column="31" selection-start-line="15" selection-start-column="31" selection-end-line="15" selection-end-column="31" />
+        <state relative-caret-position="394">
+          <caret line="28" lean-forward="true" selection-end-line="31" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0607/610. Two Sum - Difference equals to target.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="28" />
         </state>
       </provider>
     </entry>
