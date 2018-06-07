@@ -5,21 +5,17 @@ class Solution:
     """
     def triangleCount(self, S):
         S.sort()
-        self.count = 0
-
-        def dfs(tmp, start_index):
-            # print tmp, start_index
-            if len(tmp) == 3:
-                if tmp[0] + tmp[1] > tmp[2]:
-                    self.count += 1
-                return
-            for i in range(start_index, len(S)):
-                dfs(tmp + [S[i]], i + 1)
-
-        dfs([], 0)
-        return self.count
-
-
+        left, right = 0, len(S) - 1
+        ans = 0
+        for i in range(len(S)):
+            left, right = 0, i-1
+            while left < right:
+                if S[left] + S[right] > S[i]:
+                    ans += right - left
+                    right -= 1
+                else:
+                    left += 1
+        return ans
 
 if __name__ == "__main__":
     nums = [1, 2, 3, 4, 5, 5, 7]
