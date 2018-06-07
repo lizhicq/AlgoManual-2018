@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19dffaa6-d61f-4c72-bbbf-5a6b4dde1887" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/0606/461. Kth Smallest Numbers in Unsorted Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0606/382. Triangle Count.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,11 +62,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="461. Kth Smallest Numbers in Unsorted Array.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="461. Kth Smallest Numbers in Unsorted Array.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0606/461. Kth Smallest Numbers in Unsorted Array.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="401">
-              <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+            <state relative-caret-position="275">
+              <caret line="11" column="48" lean-forward="true" selection-end-line="37" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="382. Triangle Count.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0606/382. Triangle Count.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="426">
+              <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -85,15 +94,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="278">
               <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="quicksort.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0601/quicksort.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="18" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -152,6 +152,7 @@
         <option value="$PROJECT_DIR$/0606/533. Two Sum - Closest to target.py" />
         <option value="$PROJECT_DIR$/0606/443. Two Sum - Greater than target.py" />
         <option value="$PROJECT_DIR$/0606/461. Kth Smallest Numbers in Unsorted Array.py" />
+        <option value="$PROJECT_DIR$/0606/382. Triangle Count.py" />
       </list>
     </option>
   </component>
@@ -222,7 +223,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.461. Kth Smallest Numbers in Unsorted Array">
+  <component name="RunManager" selected="Python.382. Triangle Count">
+    <configuration name="382. Triangle Count" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TestProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0606" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0606/382. Triangle Count.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="443. Two Sum - Greater than target" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TestProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -313,39 +332,21 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="609. Two Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="TestProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0605" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0605/609. Two Sum.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list>
       <item itemvalue="Python.464. Sort Integers II" />
-      <item itemvalue="Python.609. Two Sum" />
       <item itemvalue="Python.587. Two Sum - Unique pairs" />
       <item itemvalue="Python.533. Two Sum - Closest to target" />
       <item itemvalue="Python.443. Two Sum - Greater than target" />
       <item itemvalue="Python.461. Kth Smallest Numbers in Unsorted Array" />
+      <item itemvalue="Python.382. Triangle Count" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.382. Triangle Count" />
         <item itemvalue="Python.461. Kth Smallest Numbers in Unsorted Array" />
         <item itemvalue="Python.443. Two Sum - Greater than target" />
         <item itemvalue="Python.533. Two Sum - Closest to target" />
         <item itemvalue="Python.587. Two Sum - Unique pairs" />
-        <item itemvalue="Python.609. Two Sum" />
       </list>
     </recent_temporary>
   </component>
@@ -619,7 +620,14 @@
       <option name="project" value="LOCAL" />
       <updated>1528330381859</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="0606 update">
+      <created>1528331462875</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1528331462875</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TodoView">
@@ -703,13 +711,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="8" column="25" selection-end-line="22" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0529/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1009,8 +1010,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0606/461. Kth Smallest Numbers in Unsorted Array.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        <state relative-caret-position="275">
+          <caret line="11" column="48" lean-forward="true" selection-end-line="37" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0606/382. Triangle Count.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="26" column="12" selection-start-line="26" selection-start-column="12" selection-end-line="26" selection-end-column="12" />
         </state>
       </provider>
     </entry>
