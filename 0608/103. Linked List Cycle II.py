@@ -12,7 +12,22 @@ class Solution:
     @return: The node where the cycle begins. if there is no cycle, return null
     """
     def detectCycle(self, head):
-        pass
+        if head is None:
+            return False
+        fast = head
+        slow = head
+        while fast.next is not None:
+            fast = fast.next.next
+            slow = slow.next
+            if fast is None:
+                return False
+            elif fast == slow:
+                fast = head
+                while fast != slow:
+                    fast = fast.next
+                    slow = slow.next
+                return fast
+        return False
 
 
 
@@ -27,4 +42,5 @@ if __name__ == "__main__":
     root.next.next = ListNode(4)
     root.next.next.next = ListNode(5)
     root.next.next.next.next = root
+
 
