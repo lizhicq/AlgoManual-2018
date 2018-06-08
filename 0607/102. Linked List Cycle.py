@@ -17,14 +17,11 @@ class Solution:
             return False
         fast = head
         slow = head
-        while True:
-            if fast.next is not None:
-                fast = fast.next.next
-                slow = slow.next
-                if fast is None:
-                    return False
-                elif fast == slow:
-                    return True
-            else:
+        while fast.next is not None:
+            fast = fast.next.next
+            slow = slow.next
+            if fast is None:
                 return False
+            elif fast == slow:
+                return True
         return False
