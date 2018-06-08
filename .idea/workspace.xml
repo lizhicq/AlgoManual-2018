@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19dffaa6-d61f-4c72-bbbf-5a6b4dde1887" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/0608/58. 4Sum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0608/103. Linked List Cycle II.py" beforeDir="false" afterPath="$PROJECT_DIR$/0608-Two Pointers/103. Linked List Cycle II.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0608/58. 4Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/0608-Two Pointers/58. 4Sum.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -81,7 +82,7 @@
         </entry>
       </file>
       <file leaf-file-name="103. Linked List Cycle II.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0608/103. Linked List Cycle II.py">
+        <entry file="file://$PROJECT_DIR$/0608-Two Pointers/103. Linked List Cycle II.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
               <caret line="32" column="18" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="18" />
@@ -90,10 +91,10 @@
         </entry>
       </file>
       <file leaf-file-name="58. 4Sum.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/0608/58. 4Sum.py">
+        <entry file="file://$PROJECT_DIR$/0608-Two Pointers/58. 4Sum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+            <state relative-caret-position="721">
+              <caret line="71" column="13" lean-forward="true" selection-start-line="71" selection-start-column="13" selection-end-line="71" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -194,7 +195,7 @@
             <path>
               <item name="TestProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="0608" type="462c0819:PsiDirectoryNode" />
+              <item name="0608-Two Pointers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -363,20 +364,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527128736001</updated>
-    </task>
-    <task id="LOCAL-00001" summary="update test">
-      <created>1527550011050</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1527550011050</updated>
-    </task>
-    <task id="LOCAL-00002" summary="update test">
-      <created>1527550511660</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1527550511660</updated>
     </task>
     <task id="LOCAL-00003" summary="update test">
       <created>1527634264428</created>
@@ -707,7 +694,21 @@
       <option name="project" value="LOCAL" />
       <updated>1528491615465</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="0608">
+      <created>1528496282648</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1528496282649</updated>
+    </task>
+    <task id="LOCAL-00051" summary="0608">
+      <created>1528496484409</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1528496484409</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1102,17 +1103,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0608/103. Linked List Cycle II.py">
+    <entry file="file://$PROJECT_DIR$/0608-Two Pointers/103. Linked List Cycle II.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="32" column="18" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0608/58. 4Sum.py">
+    <entry file="file://$PROJECT_DIR$/0608-Two Pointers/58. 4Sum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="50" column="17" selection-start-line="50" selection-start-column="17" selection-end-line="50" selection-end-column="17" />
+        <state relative-caret-position="721">
+          <caret line="71" column="13" lean-forward="true" selection-start-line="71" selection-start-column="13" selection-end-line="71" selection-end-column="13" />
         </state>
       </provider>
     </entry>
