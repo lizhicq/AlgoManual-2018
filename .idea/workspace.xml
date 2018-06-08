@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="19dffaa6-d61f-4c72-bbbf-5a6b4dde1887" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0608/103. Linked List Cycle II.py" beforeDir="false" afterPath="$PROJECT_DIR$/0608/103. Linked List Cycle II.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -83,8 +82,8 @@
       <file leaf-file-name="102. Linked List Cycle.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0607/102. Linked List Cycle.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="494">
-              <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+            <state relative-caret-position="247">
+              <caret line="13" selection-start-line="13" selection-end-line="26" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -92,8 +91,8 @@
       <file leaf-file-name="103. Linked List Cycle II.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/0608/103. Linked List Cycle II.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+            <state>
+              <caret lean-forward="true" selection-end-line="29" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -225,7 +224,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.380. Intersection of Two Linked Lists">
+  <component name="RunManager" selected="Python.103. Linked List Cycle II">
+    <configuration name="103. Linked List Cycle II" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TestProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0608" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0608/103. Linked List Cycle II.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="380. Intersection of Two Linked Lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TestProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -239,24 +256,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0607/380. Intersection of Two Linked Lists.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="382. Triangle Count" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="TestProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0606" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0606/382. Triangle Count.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -336,19 +335,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.464. Sort Integers II" />
-      <item itemvalue="Python.382. Triangle Count" />
       <item itemvalue="Python.625. Partition Array II" />
       <item itemvalue="Python.894. Pancake Sorting" />
       <item itemvalue="Python.610. Two Sum - Difference equals to target" />
       <item itemvalue="Python.380. Intersection of Two Linked Lists" />
+      <item itemvalue="Python.103. Linked List Cycle II" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.103. Linked List Cycle II" />
         <item itemvalue="Python.380. Intersection of Two Linked Lists" />
         <item itemvalue="Python.610. Two Sum - Difference equals to target" />
         <item itemvalue="Python.894. Pancake Sorting" />
         <item itemvalue="Python.625. Partition Array II" />
-        <item itemvalue="Python.382. Triangle Count" />
       </list>
     </recent_temporary>
   </component>
@@ -685,7 +684,21 @@
       <option name="project" value="LOCAL" />
       <updated>1528489839912</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="0608">
+      <created>1528489856936</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1528489856936</updated>
+    </task>
+    <task id="LOCAL-00048" summary="0608">
+      <created>1528491261545</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1528491261545</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TodoView">
@@ -1082,15 +1095,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0607/102. Linked List Cycle.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="26" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/0608/103. Linked List Cycle II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        <state>
+          <caret lean-forward="true" selection-end-line="29" selection-end-column="20" />
         </state>
       </provider>
     </entry>
