@@ -12,7 +12,7 @@ class Solution:
     @return: The node where the cycle begins. if there is no cycle, return null
     """
     def detectCycle(self, head):
-
+        pass
 
 
 

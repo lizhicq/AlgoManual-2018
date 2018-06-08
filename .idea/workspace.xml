@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19dffaa6-d61f-4c72-bbbf-5a6b4dde1887" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/0608/103. Linked List Cycle II.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0607/102. Linked List Cycle.py" beforeDir="false" afterPath="$PROJECT_DIR$/0607/102. Linked List Cycle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0608/103. Linked List Cycle II.py" beforeDir="false" afterPath="$PROJECT_DIR$/0608/103. Linked List Cycle II.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -94,7 +93,7 @@
         <entry file="file://$PROJECT_DIR$/0608/103. Linked List Cycle II.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
-              <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+              <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -185,6 +184,11 @@
             <path>
               <item name="TestProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestProjects" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="0607" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="TestProjects" type="b2602c69:ProjectViewProjectNode" />
@@ -674,7 +678,14 @@
       <option name="project" value="LOCAL" />
       <updated>1528416952268</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="0607">
+      <created>1528489839912</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1528489839912</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TodoView">
@@ -751,7 +762,8 @@
     <MESSAGE value="0605 update" />
     <MESSAGE value="0606 update" />
     <MESSAGE value="0607" />
-    <option name="LAST_COMMIT_MESSAGE" value="0607" />
+    <MESSAGE value="0608" />
+    <option name="LAST_COMMIT_MESSAGE" value="0608" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1078,7 +1090,7 @@
     <entry file="file://$PROJECT_DIR$/0608/103. Linked List Cycle II.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="14" column="8" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
         </state>
       </provider>
     </entry>
