@@ -10,6 +10,24 @@ class Solution:
     """
 
     def levelOrder(self, root):
+        from Queue import deque
+        result = []
+        if root is None:
+            return result
+        deck = deque()
+        deck.appendleft(root)
+
+        while len(deck) > 0:
+            size = len(deck)
+            for i in range(size):
+                node = deck.pop()
+                if node.left:
+                    deck.appendleft(node.left)
+                if node.right:
+                    deck.appendleft(node.right)
+        return result
+
+    def levelOrder_method2(self, root):
         result = []
         if root is None:
             return result

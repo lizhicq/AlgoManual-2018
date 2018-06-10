@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19dffaa6-d61f-4c72-bbbf-5a6b4dde1887" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/0609-BFS/433. Number of Islands.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0609-BFS/615. Course Schedule.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0609-BFS/69. Binary Tree Level Order Traversal.py" beforeDir="false" afterPath="$PROJECT_DIR$/0609-BFS/69. Binary Tree Level Order Traversal.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,24 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="461. Kth Smallest Numbers in Unsorted Array.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0606/461. Kth Smallest Numbers in Unsorted Array.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="48" selection-end-line="37" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="382. Triangle Count.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0606/382. Triangle Count.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="35" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="625. Partition Array II.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0607-Two Pointers/625. Partition Array II.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -98,13 +81,27 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="433. Number of Islands.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="433. Number of Islands.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0609-BFS/433. Number of Islands.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+            <state relative-caret-position="-116">
+              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="69. Binary Tree Level Order Traversal.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0609-BFS/69. Binary Tree Level Order Traversal.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="684">
+              <caret line="30" selection-start-line="30" selection-end-line="44" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="615. Course Schedule.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0609-BFS/615. Course Schedule.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -162,14 +159,15 @@
         <option value="$PROJECT_DIR$/0608/103. Linked List Cycle II.py" />
         <option value="$PROJECT_DIR$/0608/58. 4Sum.py" />
         <option value="$PROJECT_DIR$/0609-BFS/433. Number of Islands.py" />
+        <option value="$PROJECT_DIR$/0609-BFS/69. Binary Tree Level Order Traversal.py" />
+        <option value="$PROJECT_DIR$/0609-BFS/615. Course Schedule.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-1727" />
-    <option name="y" value="4" />
-    <option name="width" value="1734" />
-    <option name="height" value="1448" />
+    <option name="x" value="1682" />
+    <option name="width" value="1703" />
+    <option name="height" value="1447" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -364,20 +362,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527128736001</updated>
-    </task>
-    <task id="LOCAL-00005" summary="update test">
-      <created>1527634863768</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1527634863768</updated>
-    </task>
-    <task id="LOCAL-00006" summary="update test">
-      <created>1527635609697</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1527635609697</updated>
     </task>
     <task id="LOCAL-00007" summary="update test">
       <created>1527722692198</created>
@@ -708,7 +692,21 @@
       <option name="project" value="LOCAL" />
       <updated>1528497314467</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="0608">
+      <created>1528644195513</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1528644195514</updated>
+    </task>
+    <task id="LOCAL-00055" summary="0609">
+      <created>1528644315792</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1528644315793</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TodoView">
@@ -721,10 +719,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2298" y="4" width="1156" height="965" extended-state="0" />
+    <frame x="1682" y="0" width="1703" height="1447" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49908924" visible="true" weight="0.24664879" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49908924" visible="true" weight="0.16576576" />
       <window_info id="TODO" order="2" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
       <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.50089127" side_tool="true" weight="0.22222222" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.34408602" />
@@ -786,7 +784,8 @@
     <MESSAGE value="0606 update" />
     <MESSAGE value="0607" />
     <MESSAGE value="0608" />
-    <option name="LAST_COMMIT_MESSAGE" value="0608" />
+    <MESSAGE value="0609" />
+    <option name="LAST_COMMIT_MESSAGE" value="0609" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -794,20 +793,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/test1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="702">
-          <caret line="26" column="24" selection-end-line="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="22" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/test1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="702">
@@ -1112,10 +1097,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0609-BFS/433. Number of Islands.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        <state relative-caret-position="-116">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0609-BFS/69. Binary Tree Level Order Traversal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="30" selection-start-line="30" selection-end-line="44" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0609-BFS/615. Course Schedule.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
