@@ -49,5 +49,5 @@ class Solution:
 
 if __name__ == "__main__":
     nums = [100,50,99,50,100,50,99,50,100,50]
-    s = 250
+    s = 250 
     print Solution().minimumSize(nums, s)
