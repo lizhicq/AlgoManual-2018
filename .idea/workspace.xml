@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19dffaa6-d61f-4c72-bbbf-5a6b4dde1887" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/0611/384. Longest Substring Without Repeating Characters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0611/386. Longest Substring with At Most K Distinct Characters.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0611/406. Minimum Size Subarray Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/0611/406. Minimum Size Subarray Sum.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,11 +26,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="384. Longest Substring Without Repeating Characters.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="384. Longest Substring Without Repeating Characters.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0611/384. Longest Substring Without Repeating Characters.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+            <state relative-caret-position="406">
+              <caret line="14" column="31" lean-forward="true" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="386. Longest Substring with At Most K Distinct Characters.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0611/386. Longest Substring with At Most K Distinct Characters.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -96,6 +104,7 @@
         <option value="$PROJECT_DIR$/0610-BFS/615. Course Schedule.py" />
         <option value="$PROJECT_DIR$/0611/406. Minimum Size Subarray Sum.py" />
         <option value="$PROJECT_DIR$/0611/384. Longest Substring Without Repeating Characters.py" />
+        <option value="$PROJECT_DIR$/0611/386. Longest Substring with At Most K Distinct Characters.py" />
       </list>
     </option>
   </component>
@@ -156,25 +165,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.384. Longest Substring Without Repeating Characters">
-    <configuration name="103. Linked List Cycle II" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="TestProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0608" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0608/103. Linked List Cycle II.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.386. Longest Substring with At Most K Distinct Characters">
     <configuration name="384. Longest Substring Without Repeating Characters" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TestProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -188,6 +179,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0611/384. Longest Substring Without Repeating Characters.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="386. Longest Substring with At Most K Distinct Characters" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TestProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0611" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0611/386. Longest Substring with At Most K Distinct Characters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -267,19 +276,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.464. Sort Integers II" />
-      <item itemvalue="Python.103. Linked List Cycle II" />
       <item itemvalue="Python.58. 4Sum" />
       <item itemvalue="Python.615. Course Schedule" />
       <item itemvalue="Python.406. Minimum Size Subarray Sum" />
       <item itemvalue="Python.384. Longest Substring Without Repeating Characters" />
+      <item itemvalue="Python.386. Longest Substring with At Most K Distinct Characters" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.386. Longest Substring with At Most K Distinct Characters" />
         <item itemvalue="Python.384. Longest Substring Without Repeating Characters" />
         <item itemvalue="Python.406. Minimum Size Subarray Sum" />
         <item itemvalue="Python.615. Course Schedule" />
         <item itemvalue="Python.58. 4Sum" />
-        <item itemvalue="Python.103. Linked List Cycle II" />
       </list>
     </recent_temporary>
   </component>
@@ -293,13 +302,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527128736001</updated>
-    </task>
-    <task id="LOCAL-00011" summary="test">
-      <created>1527725179162</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1527725179162</updated>
     </task>
     <task id="LOCAL-00012" summary="0530">
       <created>1527728694822</created>
@@ -637,7 +639,14 @@
       <option name="project" value="LOCAL" />
       <updated>1528757698574</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="0611">
+      <created>1528763483226</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1528763483226</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TodoView">
@@ -725,7 +734,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test3.py" />
     <entry file="file://$PROJECT_DIR$/test/test1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
@@ -1043,8 +1051,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0611/384. Longest Substring Without Repeating Characters.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        <state relative-caret-position="406">
+          <caret line="14" column="31" lean-forward="true" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0611/386. Longest Substring with At Most K Distinct Characters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
         </state>
       </provider>
     </entry>
