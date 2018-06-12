@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19dffaa6-d61f-4c72-bbbf-5a6b4dde1887" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/0611/406. Minimum Size Subarray Sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0611/384. Longest Substring Without Repeating Characters.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0611/406. Minimum Size Subarray Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/0611/406. Minimum Size Subarray Sum.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,92 +18,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="894. Pancake Sorting.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0607-Two Pointers/894. Pancake Sorting.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="28" selection-end-line="31" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="610. Two Sum - Difference equals to target.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0607-Two Pointers/610. Two Sum - Difference equals to target.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="380. Intersection of Two Linked Lists.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0607-Two Pointers/380. Intersection of Two Linked Lists.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="33" selection-end-line="35" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="102. Linked List Cycle.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0607-Two Pointers/102. Linked List Cycle.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" selection-start-line="13" selection-end-line="26" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="103. Linked List Cycle II.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0608-Two Pointers/103. Linked List Cycle II.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="608">
-              <caret line="32" column="18" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="58. 4Sum.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0608-Two Pointers/58. 4Sum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="29" column="46" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="433. Number of Islands.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0609-BFS/433. Number of Islands.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="69. Binary Tree Level Order Traversal.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0609-BFS/69. Binary Tree Level Order Traversal.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="30" selection-start-line="30" selection-end-line="44" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="615. Course Schedule.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0610-BFS/615. Course Schedule.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="406. Minimum Size Subarray Sum.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="406. Minimum Size Subarray Sum.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0611/406. Minimum Size Subarray Sum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+            <state relative-caret-position="544">
+              <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="384. Longest Substring Without Repeating Characters.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0611/384. Longest Substring Without Repeating Characters.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="377">
+              <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -166,13 +95,14 @@
         <option value="$PROJECT_DIR$/0609-BFS/615. Course Schedule.py" />
         <option value="$PROJECT_DIR$/0610-BFS/615. Course Schedule.py" />
         <option value="$PROJECT_DIR$/0611/406. Minimum Size Subarray Sum.py" />
+        <option value="$PROJECT_DIR$/0611/384. Longest Substring Without Repeating Characters.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1118" />
-    <option name="width" value="1134" />
-    <option name="height" value="1440" />
+    <option name="x" value="1185" />
+    <option name="width" value="1124" />
+    <option name="height" value="1447" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -226,7 +156,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.615. Course Schedule">
+  <component name="RunManager" selected="Python.384. Longest Substring Without Repeating Characters">
     <configuration name="103. Linked List Cycle II" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TestProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -245,7 +175,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="380. Intersection of Two Linked Lists" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="384. Longest Substring Without Repeating Characters" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TestProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -253,11 +183,29 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0607" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0611" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0607/380. Intersection of Two Linked Lists.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0611/384. Longest Substring Without Repeating Characters.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="406. Minimum Size Subarray Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TestProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0611" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0611/406. Minimum Size Subarray Sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -299,24 +247,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="610. Two Sum - Difference equals to target" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="TestProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0607" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0607/610. Two Sum - Difference equals to target.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="615. Course Schedule" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TestProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -337,19 +267,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.464. Sort Integers II" />
-      <item itemvalue="Python.610. Two Sum - Difference equals to target" />
-      <item itemvalue="Python.380. Intersection of Two Linked Lists" />
       <item itemvalue="Python.103. Linked List Cycle II" />
       <item itemvalue="Python.58. 4Sum" />
       <item itemvalue="Python.615. Course Schedule" />
+      <item itemvalue="Python.406. Minimum Size Subarray Sum" />
+      <item itemvalue="Python.384. Longest Substring Without Repeating Characters" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.384. Longest Substring Without Repeating Characters" />
+        <item itemvalue="Python.406. Minimum Size Subarray Sum" />
         <item itemvalue="Python.615. Course Schedule" />
         <item itemvalue="Python.58. 4Sum" />
         <item itemvalue="Python.103. Linked List Cycle II" />
-        <item itemvalue="Python.380. Intersection of Two Linked Lists" />
-        <item itemvalue="Python.610. Two Sum - Difference equals to target" />
       </list>
     </recent_temporary>
   </component>
@@ -363,13 +293,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527128736001</updated>
-    </task>
-    <task id="LOCAL-00010" summary="test for commit shortcut">
-      <created>1527724712386</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1527724712386</updated>
     </task>
     <task id="LOCAL-00011" summary="test">
       <created>1527725179162</created>
@@ -707,7 +630,14 @@
       <option name="project" value="LOCAL" />
       <updated>1528678161611</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="0611">
+      <created>1528757698574</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1528757698574</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TodoView">
@@ -720,15 +650,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1118" y="0" width="1134" height="1440" extended-state="0" />
+    <frame x="1185" y="0" width="1124" height="1447" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49908924" visible="true" weight="0.20711678" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49908924" visible="true" weight="0.18416207" />
       <window_info id="TODO" order="2" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
       <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.50089127" side_tool="true" weight="0.22222222" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.34408602" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.32696897" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49910873" weight="0.3473054" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49910873" visible="true" weight="0.34524715" />
       <window_info id="Structure" order="1" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3297491" />
       <window_info id="Favorites" order="3" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
@@ -786,7 +716,8 @@
     <MESSAGE value="0607" />
     <MESSAGE value="0608" />
     <MESSAGE value="0609" />
-    <option name="LAST_COMMIT_MESSAGE" value="0609" />
+    <MESSAGE value="0611" />
+    <option name="LAST_COMMIT_MESSAGE" value="0611" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -794,13 +725,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/test2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="22" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test3.py" />
     <entry file="file://$PROJECT_DIR$/test/test1.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -1054,31 +978,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0607-Two Pointers/610. Two Sum - Difference equals to target.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0607-Two Pointers/380. Intersection of Two Linked Lists.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="627">
-          <caret line="33" selection-end-line="35" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0607-Two Pointers/102. Linked List Cycle.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="13" selection-start-line="13" selection-end-line="26" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0608-Two Pointers/103. Linked List Cycle II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="18" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -1089,10 +992,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0609-BFS/433. Number of Islands.py">
+    <entry file="file://$PROJECT_DIR$/0610-BFS/615. Course Schedule.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        <state relative-caret-position="260">
+          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -1103,17 +1006,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0610-BFS/615. Course Schedule.py">
+    <entry file="file://$PROJECT_DIR$/0609-BFS/433. Number of Islands.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        <state relative-caret-position="126">
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0608-Two Pointers/103. Linked List Cycle II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="32" column="18" selection-start-line="32" selection-start-column="17" selection-end-line="32" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0607-Two Pointers/380. Intersection of Two Linked Lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="627">
+          <caret line="33" selection-end-line="35" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0607-Two Pointers/610. Two Sum - Difference equals to target.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/0611/406. Minimum Size Subarray Sum.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="18" column="17" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        <state relative-caret-position="544">
+          <caret line="17" column="31" lean-forward="true" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0611/384. Longest Substring Without Repeating Characters.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
         </state>
       </provider>
     </entry>
