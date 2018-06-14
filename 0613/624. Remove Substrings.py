@@ -5,20 +5,27 @@ class Solution:
     @return: the minimum length
     """
     def minLength(self, s, dict):
-        if len(dict) == 0:
-            return s
-        from collections import deque
-        deck = deque()
-        deck.append(dict[0])
-        while len(deck) > 0:
-            substr = deck.popleft()
-            s = s.replace(substr, "")
-            for substr in dict:
-                if substr in s:
-                    deck.append(substr)
-                    continue
-        return len(s)
+        #from Queue import Queue
+        que = []
+        str_set = set()
 
+        que.append(s)
+        str_set.add(s)
+        ans = len(s)
+        while len(que) > 0:
+            s = que.pop()
+            for sub in dict:
+                found = s.find(sub)
+                while found != -1:
+                    new_s = s[:found] + s[found+len(sub):]
+                    if new_s not in str_set:
+                        str_set.add(new_s)
+                        ans = min(ans, len(new_s))
+                        que.append(new_s)
+                        str_set.add(new_s)
+                    found = s.find(sub, found + 1)
+
+        return ans
 if __name__ == "__main__":
     s = "ccdaabcdbb"
     dict = ["ab", "cd"]
