@@ -5,27 +5,30 @@ class Solution:
     @param: dict: a set of string
     @return: An integer
     """
-    def ladderLength(self, start, end, dict):
-        from collections import deque
-        from sys import maxsize
-        deck = deque()
-        deck.append(start)
-        record = {word:maxsize for word in dict}
-        record[start] = 1
-        record[end] = maxsize
-
-        while len(deck) > 0:
-            word = deck.popleft()
-            for new_word in record:
-                if check(word, new_word):
-                    if record[new_word] > record[word] + 1:
-                        record[new_word] = record[word] + 1
-                        deck.append(new_word)
-        print record
-        return record[end]
+    def ladderLength(self, start, end, wordSet):
+        import collections
+        wordSet.add(end)
+        wordLen = len(start)
+        deck = collections.deque()
+        deck.append((start, 1))
+        char_list = [chr(ord('a') + i) for i in range(26)]
+        while deck:
+            curWord, curLen = deck.popleft()
+            if curWord == end:
+                return curLen
+            for i in range(wordLen):
+                part1 = curWord[:i]
+                part2 = curWord[i+1:]
+                for ch in char_list:
+                    if curWord[i] != ch:
+                        nextWord = part1 + ch + part2
+                        if nextWord in wordSet:
+                            deck.append((nextWord, curLen+1))
+                            wordSet.remove(nextWord)
+        return 0
 
 if __name__ == "__main__":
-    start = 'kiss'
-    end = 'tusk'
-    dict = ["miss","dusk","kiss","musk","tusk","diss","disk","sang","ties","muss"]
+    start = "hit"
+    end = "cog"
+    dict = set(["hot","dot","dog","lot","log"])
     print Solution().ladderLength(start, end, dict)
