@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19dffaa6-d61f-4c72-bbbf-5a6b4dde1887" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/0616/120. Word Ladder.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0616/120. Word Ladder.py" beforeDir="false" afterPath="$PROJECT_DIR$/0616/120. Word Ladder.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -74,8 +74,8 @@
       <file leaf-file-name="120. Word Ladder.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/0616/120. Word Ladder.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+            <state relative-caret-position="512">
+              <caret line="19" column="24" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -150,9 +150,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1126" />
-    <option name="width" value="1126" />
-    <option name="height" value="1440" />
+    <option name="x" value="1682" />
+    <option name="width" value="1703" />
+    <option name="height" value="1447" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -206,7 +206,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.624. Remove Substrings">
+  <component name="RunManager" selected="Python.120. Word Ladder">
+    <configuration name="120. Word Ladder" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TestProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0616" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0616/120. Word Ladder.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="242. Convert Binary Tree to Linked Lists by Depth" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TestProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -220,24 +238,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0613/242. Convert Binary Tree to Linked Lists by Depth.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="386. Longest Substring with At Most K Distinct Characters" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="TestProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0611" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0611/386. Longest Substring with At Most K Distinct Characters.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -317,19 +317,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.464. Sort Integers II" />
-      <item itemvalue="Python.386. Longest Substring with At Most K Distinct Characters" />
       <item itemvalue="Python.465. Kth Smallest Sum In Two Sorted Arrays" />
       <item itemvalue="Python.543. Kth Largest in N Arrays" />
       <item itemvalue="Python.242. Convert Binary Tree to Linked Lists by Depth" />
       <item itemvalue="Python.624. Remove Substrings" />
+      <item itemvalue="Python.120. Word Ladder" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.120. Word Ladder" />
         <item itemvalue="Python.624. Remove Substrings" />
         <item itemvalue="Python.242. Convert Binary Tree to Linked Lists by Depth" />
         <item itemvalue="Python.543. Kth Largest in N Arrays" />
         <item itemvalue="Python.465. Kth Smallest Sum In Two Sorted Arrays" />
-        <item itemvalue="Python.386. Longest Substring with At Most K Distinct Characters" />
       </list>
     </recent_temporary>
   </component>
@@ -343,20 +343,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527128736001</updated>
-    </task>
-    <task id="LOCAL-00019" summary="0601, sort algorithms">
-      <created>1527878158633</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1527878158633</updated>
-    </task>
-    <task id="LOCAL-00020" summary="0601, sort algorithms">
-      <created>1527879264473</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1527879264473</updated>
     </task>
     <task id="LOCAL-00021" summary="0601, sort algorithms">
       <created>1527886955270</created>
@@ -687,7 +673,21 @@
       <option name="project" value="LOCAL" />
       <updated>1528998461056</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="0616">
+      <created>1529202539652</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1529202539652</updated>
+    </task>
+    <task id="LOCAL-00069" summary="0616">
+      <created>1529203868676</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1529203868676</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TodoView">
@@ -703,12 +703,12 @@
     <frame x="1126" y="0" width="1126" height="1440" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49908924" visible="true" weight="0.22058824" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49908924" visible="true" weight="0.22058824" />
       <window_info id="TODO" order="2" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
       <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.50089127" side_tool="true" weight="0.22222222" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.34408602" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.32471484" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49910873" weight="0.34633029" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49910873" visible="true" weight="0.34633029" />
       <window_info id="Structure" order="1" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3297491" />
       <window_info id="Favorites" order="3" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
@@ -788,7 +788,8 @@
     <MESSAGE value="0609" />
     <MESSAGE value="0611" />
     <MESSAGE value="0612" />
-    <option name="LAST_COMMIT_MESSAGE" value="0612" />
+    <MESSAGE value="0616" />
+    <option name="LAST_COMMIT_MESSAGE" value="0616" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1124,8 +1125,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0616/120. Word Ladder.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        <state relative-caret-position="512">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="24" />
         </state>
       </provider>
     </entry>

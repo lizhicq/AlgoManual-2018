@@ -13,14 +13,6 @@ class Solution:
         record = {word:maxsize for word in dict}
         record[start] = 1
         record[end] = maxsize
-        def check(word, new_word):
-            count = 0
-            for i in range(len(word)):
-                if word[i] != new_word[i]:
-                    count += 1
-                if count > 1:
-                    break
-            return count == 1
 
         while len(deck) > 0:
             word = deck.popleft()
