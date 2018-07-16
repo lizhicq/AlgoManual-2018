@@ -178,9 +178,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-7" />
-    <option name="width" value="1703" />
-    <option name="height" value="1447" />
+    <option name="x" value="1113" />
+    <option name="width" value="1140" />
+    <option name="height" value="1440" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -264,7 +264,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.120. Word Ladder">
+  <component name="RunManager" selected="Python.526 Load Balancer">
     <configuration name="120. Word Ladder" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TestProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -319,7 +319,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="465. Kth Smallest Sum In Two Sorted Arrays" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="526 Load Balancer" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TestProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -327,11 +327,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0612" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0715-Data" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0612/465. Kth Smallest Sum In Two Sorted Arrays.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0715-Data/526 Load Balancer.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -375,19 +375,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.464. Sort Integers II" />
-      <item itemvalue="Python.465. Kth Smallest Sum In Two Sorted Arrays" />
       <item itemvalue="Python.543. Kth Largest in N Arrays" />
       <item itemvalue="Python.242. Convert Binary Tree to Linked Lists by Depth" />
       <item itemvalue="Python.624. Remove Substrings" />
       <item itemvalue="Python.120. Word Ladder" />
+      <item itemvalue="Python.526 Load Balancer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.526 Load Balancer" />
         <item itemvalue="Python.120. Word Ladder" />
         <item itemvalue="Python.624. Remove Substrings" />
         <item itemvalue="Python.242. Convert Binary Tree to Linked Lists by Depth" />
         <item itemvalue="Python.543. Kth Largest in N Arrays" />
-        <item itemvalue="Python.465. Kth Smallest Sum In Two Sorted Arrays" />
       </list>
     </recent_temporary>
   </component>
