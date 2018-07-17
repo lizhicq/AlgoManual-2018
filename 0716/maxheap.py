@@ -2,7 +2,7 @@ class maxheap(object):
 
     def heapsort(self, nums, lo=None, hi=None):
         lo = 0 if lo is None else lo
-        hi = len(nums) if hi is None else hi
+        hi = len(nums)-1 if hi is None else hi
         self.heapify(nums)
         for i in range(hi, lo, -1):
             nums[lo], nums[i] = nums[i], nums[lo]
@@ -56,4 +56,23 @@ class maxheap(object):
                 return
             nums[parent], nums[child] = nums[child], nums[parent]
             child = parent
+
+if __name__ == "__main__":
+    h = maxheap()
+    nums = range(10)
+    nums.reverse()
+    h.heapsort(nums)
+    print nums
+    heap = [15,1,2,512,1,3,-10]
+    h.heapify(heap)
+    while heap:
+        print h.heappop(heap)
+    h.heappush(heap, 1)
+    h.heappush(heap, 2)
+    h.heappush(heap, -3)
+    h.heappush(heap, 4)
+    h.heappush(heap, -5)
+    print '---'
+    while heap:
+        print h.heappop(heap)
 
