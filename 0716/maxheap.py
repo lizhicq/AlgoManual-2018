@@ -4,7 +4,9 @@ class maxheap(object):
         lo = 0 if lo is None else lo
         hi = len(nums) if hi is None else hi
         self.heapify(nums)
-
+        for i in range(hi, lo, -1):
+            nums[lo], nums[i] = nums[i], nums[lo]
+            self.shiftdown(nums, lo, i-1)
 
     def heapify(self, nums, lo=None, hi=None):
         lo = 0 if lo is None else lo
