@@ -9,8 +9,6 @@ class WordFreq():
         elif self.freq == other.freq:
             return self.word > other.word
 
-
-
 class Solution:
     """
     @param words: an array of string
@@ -18,7 +16,6 @@ class Solution:
     @return: an array of string
     """
     def topKFrequentWords(self, words, k):
-        from collections import OrderedDict
         from heapq import heappop, heappush
         word_freq = {}
         for word in words:
@@ -37,6 +34,7 @@ class Solution:
             ans.append(word)
         ans.reverse()
         return ans
+
 
 
 if __name__ == "__main__":
