@@ -22,7 +22,7 @@ class NumMatrix(object):
                 j += self.lowbit(j)
             i += self.lowbit(i)
     def lowbit(self, i):
-        return i & -i
+        return i & (-i)
 
     def sumRegion(self, row1, col1, row2, col2):
         return self.sum[row2+1][col2+1] - self.sum[row1][col2+1] - self.sum[row2+1][col1] + self.sum[row1][col1]

@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19dffaa6-d61f-4c72-bbbf-5a6b4dde1887" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/0719/Range Sum Query 2D - Immutable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0719/sell stock I.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0720/besttime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0719/Range Sum Query 2D - Mutable.py" beforeDir="false" afterPath="$PROJECT_DIR$/0719/Range Sum Query 2D - Mutable.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,83 +19,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="130. Heapify.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0715-Data/130. Heapify.py">
+      <file leaf-file-name="Range Sum Query 2D - Mutable.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0719/Range Sum Query 2D - Mutable.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" selection-end-line="38" selection-end-column="15" />
+            <state relative-caret-position="456">
+              <caret line="24" column="23" selection-end-line="27" selection-end-column="112" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="129. Rehashing.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0715-Data/129. Rehashing.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="43" selection-start-line="18" selection-start-column="43" selection-end-line="18" selection-end-column="43" />
-            </state>
-          </provider>
+      <file leaf-file-name="sell stock I.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0719/sell stock I.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="maxheap.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0716/maxheap.py">
+      <file leaf-file-name="besttime.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0720/besttime.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1026">
-              <caret line="54" column="45" selection-start-line="54" selection-start-column="43" selection-end-line="54" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Top K Frequent Words.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0716/Top K Frequent Words.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="703">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="zigzag iterator.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0717/zigzag iterator.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="575. Decode String.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0718/575. Decode String.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="224. Implement Three Stacks by Single Array.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0718/224. Implement Three Stacks by Single Array.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="627">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="24. LFU Cache.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0718/24. LFU Cache.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="655">
-              <caret line="31" column="11" lean-forward="true" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Range Sum Query 2D - Immutable.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/0719/Range Sum Query 2D - Immutable.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="112" selection-start-line="14" selection-start-column="112" selection-end-line="14" selection-end-column="112" />
+            <state relative-caret-position="777">
+              <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -128,9 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0531/464. Sort Integers II.py" />
-        <option value="$PROJECT_DIR$/0531/521.py" />
-        <option value="$PROJECT_DIR$/0601/464. Sort Integers II.py" />
         <option value="$PROJECT_DIR$/0601/464. Sort numbers.py" />
         <option value="$PROJECT_DIR$/0601/mergesort.py" />
         <option value="$PROJECT_DIR$/0601/31. Partition Array.py" />
@@ -179,6 +121,9 @@
         <option value="$PROJECT_DIR$/0718/224. Implement Three Stacks by Single Array.py" />
         <option value="$PROJECT_DIR$/0718/24. LFU Cache.py" />
         <option value="$PROJECT_DIR$/0719/Range Sum Query 2D - Immutable.py" />
+        <option value="$PROJECT_DIR$/0719/Range Sum Query 2D - Mutable.py" />
+        <option value="$PROJECT_DIR$/0719/sell stock I.py" />
+        <option value="$PROJECT_DIR$/0720/besttime.py" />
       </list>
     </option>
   </component>
@@ -206,6 +151,11 @@
               <item name="TestProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestProjects" type="462c0819:PsiDirectoryNode" />
               <item name="0719" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="0720" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -239,7 +189,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.24. LFU Cache">
+  <component name="RunManager" selected="Python.Range Sum Query 2D - Mutable">
     <configuration name="224. Implement Three Stacks by Single Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TestProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -312,7 +262,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Top K Frequent Words" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Range Sum Query 2D - Mutable" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TestProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -320,11 +270,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0716" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0719" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0716/Top K Frequent Words.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0719/Range Sum Query 2D - Mutable.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -350,19 +300,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.464. Sort Integers II" />
-      <item itemvalue="Python.Top K Frequent Words" />
       <item itemvalue="Python.zigzag iterator" />
       <item itemvalue="Python.575. Decode String" />
       <item itemvalue="Python.224. Implement Three Stacks by Single Array" />
       <item itemvalue="Python.24. LFU Cache" />
+      <item itemvalue="Python.Range Sum Query 2D - Mutable" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Range Sum Query 2D - Mutable" />
         <item itemvalue="Python.24. LFU Cache" />
         <item itemvalue="Python.224. Implement Three Stacks by Single Array" />
         <item itemvalue="Python.575. Decode String" />
         <item itemvalue="Python.zigzag iterator" />
-        <item itemvalue="Python.Top K Frequent Words" />
       </list>
     </recent_temporary>
   </component>
@@ -376,20 +326,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527128736001</updated>
-    </task>
-    <task id="LOCAL-00038" summary="0606 update">
-      <created>1528331462875</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1528331462875</updated>
-    </task>
-    <task id="LOCAL-00039" summary="0606 update">
-      <created>1528332791819</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1528332791819</updated>
     </task>
     <task id="LOCAL-00040" summary="0606 update">
       <created>1528333089586</created>
@@ -720,7 +656,21 @@
       <option name="project" value="LOCAL" />
       <updated>1532042898220</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="0719">
+      <created>1532044062420</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1532044062420</updated>
+    </task>
+    <task id="LOCAL-00088" summary="lintcode">
+      <created>1532045387197</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1532045387197</updated>
+    </task>
+    <option name="localTasksCounter" value="89" />
     <servers />
   </component>
   <component name="TodoView">
@@ -739,13 +689,13 @@
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49908924" visible="true" weight="0.20598592" />
       <window_info id="TODO" order="2" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
       <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.50089127" side_tool="true" weight="0.22222222" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49910873" weight="0.2232416" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.34408602" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.3264526" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49910873" weight="0.2232416" />
       <window_info id="Structure" order="1" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3297491" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.23470949" />
       <window_info id="Favorites" order="3" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.23470949" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -759,21 +709,21 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49908924" visible="true" weight="0.1360294" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Data View" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="TODO" order="2" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.34408602" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49910873" weight="0.34524715" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="8" visible="true" weight="0.3264526" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.23508354" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3297491" />
       <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.50089127" side_tool="true" weight="0.22222222" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.34408602" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Favorites" order="3" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="8" visible="true" weight="0.3264526" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -827,7 +777,9 @@
     <MESSAGE value="0716" />
     <MESSAGE value="0717" />
     <MESSAGE value="0718" />
-    <option name="LAST_COMMIT_MESSAGE" value="0718" />
+    <MESSAGE value="0719" />
+    <MESSAGE value="lintcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="lintcode" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -840,21 +792,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Anaconda2/pkgs/statsmodels-0.8.0-py27hc77c1fc_0/Lib/site-packages/statsmodels/tools/grouputils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="434" column="8" selection-start-line="434" selection-start-column="8" selection-end-line="434" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda2/Lib/site-packages/statsmodels/tools/grouputils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="434" column="8" selection-start-line="434" selection-start-column="8" selection-end-line="434" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0601/464. Sort Integers II.py" />
     <entry file="file://$PROJECT_DIR$/0601/464. Sort numbers.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-342">
@@ -1186,8 +1123,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0719/Range Sum Query 2D - Immutable.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="112" selection-start-line="14" selection-start-column="112" selection-end-line="14" selection-end-column="112" />
+        <state relative-caret-position="228">
+          <caret line="12" lean-forward="true" selection-end-line="14" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0719/Range Sum Query 2D - Mutable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="24" column="23" selection-end-line="27" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0719/sell stock I.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0720/besttime.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="21" column="31" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
         </state>
       </provider>
     </entry>
