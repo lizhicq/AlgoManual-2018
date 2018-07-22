@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19dffaa6-d61f-4c72-bbbf-5a6b4dde1887" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/0721/Subarray Sum Closest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0721/Subarray Sum Closest.py" beforeDir="false" afterPath="$PROJECT_DIR$/0721/Subarray Sum Closest.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -34,8 +34,8 @@
       <file leaf-file-name="besttime.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0720/besttime.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="24" column="43" lean-forward="true" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="44" />
+            <state relative-caret-position="456">
+              <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -43,8 +43,8 @@
       <file leaf-file-name="maxsubarray5.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0721/maxsubarray5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            <state relative-caret-position="209">
+              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -52,8 +52,8 @@
       <file leaf-file-name="Subarray Sum Closest.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/0721/Subarray Sum Closest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1750">
-              <caret line="68" column="22" selection-start-line="68" selection-start-column="22" selection-end-line="68" selection-end-column="22" />
+            <state relative-caret-position="702">
+              <caret line="26" column="9" selection-start-line="6" selection-end-line="26" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -144,8 +144,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1155" />
-    <option name="width" value="1163" />
+    <option name="x" value="1154" />
+    <option name="width" value="1164" />
     <option name="height" value="1440" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -342,13 +342,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527128736001</updated>
-    </task>
-    <task id="LOCAL-00043" summary="0607">
-      <created>1528415621727</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1528415621727</updated>
     </task>
     <task id="LOCAL-00044" summary="0607">
       <created>1528415736077</created>
@@ -686,7 +679,14 @@
       <option name="project" value="LOCAL" />
       <updated>1532191777065</updated>
     </task>
-    <option name="localTasksCounter" value="92" />
+    <task id="LOCAL-00092" summary="lintcode">
+      <created>1532220368617</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1532220368617</updated>
+    </task>
+    <option name="localTasksCounter" value="93" />
     <servers />
   </component>
   <component name="TodoView">
@@ -699,10 +699,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1155" y="0" width="1163" height="1440" extended-state="0" />
+    <frame x="1154" y="0" width="1164" height="1440" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49908924" visible="true" weight="0.18222222" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49908924" visible="true" weight="0.18206039" />
       <window_info id="TODO" order="2" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
       <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.50089127" side_tool="true" weight="0.22222222" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.34408602" />
@@ -724,22 +724,22 @@
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49908924" visible="true" weight="0.1360294" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49910873" weight="0.34524715" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Data View" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="TODO" order="2" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.34408602" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49910873" weight="0.34524715" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="8" visible="true" weight="0.3264526" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.23508354" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3297491" />
       <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.50089127" side_tool="true" weight="0.22222222" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="3" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.34408602" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="8" visible="true" weight="0.3264526" />
+      <window_info id="Favorites" order="3" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -1142,22 +1142,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0720/besttime.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="24" column="43" lean-forward="true" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="44" />
+        <state relative-caret-position="456">
+          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/0721/maxsubarray5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        <state relative-caret-position="209">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/0721/Subarray Sum Closest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1750">
-          <caret line="68" column="22" selection-start-line="68" selection-start-column="22" selection-end-line="68" selection-end-column="22" />
+        <state relative-caret-position="702">
+          <caret line="26" column="9" selection-start-line="6" selection-end-line="26" selection-end-column="9" />
         </state>
       </provider>
     </entry>
