@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19dffaa6-d61f-4c72-bbbf-5a6b4dde1887" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/0721/maxsubarray5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0721/Subarray Sum Closest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,11 +40,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="maxsubarray5.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="maxsubarray5.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0721/maxsubarray5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="720">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="330">
+              <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Subarray Sum Closest.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0721/Subarray Sum Closest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1750">
+              <caret line="68" column="22" selection-start-line="68" selection-start-column="22" selection-end-line="68" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -80,7 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0601/mergesort.py" />
         <option value="$PROJECT_DIR$/0601/31. Partition Array.py" />
         <option value="$PROJECT_DIR$/0602/608. Two Sum II.py" />
         <option value="$PROJECT_DIR$/0603/143. Sort Colors II.py" />
@@ -131,6 +139,7 @@
         <option value="$PROJECT_DIR$/0719/sell stock I.py" />
         <option value="$PROJECT_DIR$/0720/besttime.py" />
         <option value="$PROJECT_DIR$/0721/maxsubarray5.py" />
+        <option value="$PROJECT_DIR$/0721/Subarray Sum Closest.py" />
       </list>
     </option>
   </component>
@@ -196,25 +205,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.maxsubarray5">
-    <configuration name="224. Implement Three Stacks by Single Array" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="TestProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0718" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0718/224. Implement Three Stacks by Single Array.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.Subarray Sum Closest">
     <configuration name="24. LFU Cache" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TestProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -269,6 +260,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="Subarray Sum Closest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TestProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0721" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0721/Subarray Sum Closest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="besttime" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TestProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -307,19 +316,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.464. Sort Integers II" />
-      <item itemvalue="Python.224. Implement Three Stacks by Single Array" />
       <item itemvalue="Python.24. LFU Cache" />
       <item itemvalue="Python.Range Sum Query 2D - Mutable" />
       <item itemvalue="Python.besttime" />
       <item itemvalue="Python.maxsubarray5" />
+      <item itemvalue="Python.Subarray Sum Closest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Subarray Sum Closest" />
         <item itemvalue="Python.maxsubarray5" />
         <item itemvalue="Python.besttime" />
         <item itemvalue="Python.Range Sum Query 2D - Mutable" />
         <item itemvalue="Python.24. LFU Cache" />
-        <item itemvalue="Python.224. Implement Three Stacks by Single Array" />
       </list>
     </recent_temporary>
   </component>
@@ -333,13 +342,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527128736001</updated>
-    </task>
-    <task id="LOCAL-00042" summary="0607">
-      <created>1528413249549</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1528413249549</updated>
     </task>
     <task id="LOCAL-00043" summary="0607">
       <created>1528415621727</created>
@@ -677,7 +679,14 @@
       <option name="project" value="LOCAL" />
       <updated>1532140120667</updated>
     </task>
-    <option name="localTasksCounter" value="91" />
+    <task id="LOCAL-00091" summary="lintcode">
+      <created>1532191777065</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1532191777065</updated>
+    </task>
+    <option name="localTasksCounter" value="92" />
     <servers />
   </component>
   <component name="TodoView">
@@ -698,11 +707,11 @@
       <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.50089127" side_tool="true" weight="0.22222222" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.34408602" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.3264526" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49910873" weight="0.22553517" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49910873" visible="true" weight="0.22553517" />
       <window_info id="Structure" order="1" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3297491" />
       <window_info id="Favorites" order="3" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.23165138" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.23165138" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -790,13 +799,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/0721/maxsubarray5.py</url>
-          <line>19</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="6" />
     </breakpoint-manager>
     <watches-manager>
@@ -806,13 +808,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0602/608. Two Sum II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="41" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0603/143. Sort Colors II.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -1154,8 +1149,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0721/maxsubarray5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="330">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0721/Subarray Sum Closest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1750">
+          <caret line="68" column="22" selection-start-line="68" selection-start-column="22" selection-end-line="68" selection-end-column="22" />
         </state>
       </provider>
     </entry>
