@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19dffaa6-d61f-4c72-bbbf-5a6b4dde1887" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/0723/Subarray Sum II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/0724/merge.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/TestProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TestProjects.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0725/orderedDict.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0726/TopK.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0719/Range Sum Query 2D - Immutable.py" beforeDir="false" afterPath="$PROJECT_DIR$/0719/Range Sum Query 2D - Immutable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0719/Range Sum Query 2D - Mutable.py" beforeDir="false" afterPath="$PROJECT_DIR$/0719/Range Sum Query 2D - Mutable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0722/405. Submatrix Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/0722/405. Submatrix Sum.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0724/merge.py" beforeDir="false" afterPath="$PROJECT_DIR$/0724/merge.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,24 +24,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="418">
               <caret line="22" column="31" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Range Sum Query 2D - Immutable.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0719/Range Sum Query 2D - Immutable.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" selection-start-line="13" selection-end-line="14" selection-end-column="96" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="besttime.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0720/besttime.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -80,17 +58,35 @@
       <file leaf-file-name="Subarray Sum II.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0723/Subarray Sum II.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+            <state relative-caret-position="304">
+              <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="merge.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="merge.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0724/merge.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="945">
-              <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+            <state relative-caret-position="114">
+              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="orderedDict.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/0725/orderedDict.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TopK.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0726/TopK.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -139,8 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0601/heapsort.py" />
-        <option value="$PROJECT_DIR$/0605/5.test.py" />
         <option value="$PROJECT_DIR$/0601/quicksort.py" />
         <option value="$PROJECT_DIR$/0605/5. Kth Largest Element.py" />
         <option value="$PROJECT_DIR$/0605/609. Two Sum.py" />
@@ -190,12 +184,14 @@
         <option value="$PROJECT_DIR$/0719/Range Sum Query 2D - Mutable.py" />
         <option value="$PROJECT_DIR$/0723/Subarray Sum II.py" />
         <option value="$PROJECT_DIR$/0724/merge.py" />
+        <option value="$PROJECT_DIR$/0725/orderedDict.py" />
+        <option value="$PROJECT_DIR$/0726/TopK.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1154" />
-    <option name="width" value="1164" />
+    <option name="x" value="1141" />
+    <option name="width" value="1177" />
     <option name="height" value="1440" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -206,7 +202,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -244,10 +239,21 @@
               <item name="TestProjects" type="462c0819:PsiDirectoryNode" />
               <item name="0724" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="TestProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="0725" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="0726" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -278,7 +284,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Subarray Sum II">
+  <component name="RunManager" selected="Python.TopK">
     <configuration name="史记" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TestProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -333,24 +339,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="Subarray Sum Closest" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="TestProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0721" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0721/Subarray Sum Closest.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="Subarray Sum II" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TestProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -366,10 +354,10 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0723/Subarray Sum II.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="maxsubarray5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="TopK" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TestProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -377,31 +365,49 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0721" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0726" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0721/maxsubarray5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0726/TopK.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="orderedDict" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TestProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0725" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0725/orderedDict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
       <item itemvalue="Python.464. Sort Integers II" />
-      <item itemvalue="Python.maxsubarray5" />
-      <item itemvalue="Python.Subarray Sum Closest" />
       <item itemvalue="Python.405. Submatrix Sum" />
       <item itemvalue="Python.史记" />
       <item itemvalue="Python.Subarray Sum II" />
+      <item itemvalue="Python.orderedDict" />
+      <item itemvalue="Python.TopK" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.TopK" />
+        <item itemvalue="Python.orderedDict" />
         <item itemvalue="Python.Subarray Sum II" />
         <item itemvalue="Python.405. Submatrix Sum" />
         <item itemvalue="Python.史记" />
-        <item itemvalue="Python.Subarray Sum Closest" />
-        <item itemvalue="Python.maxsubarray5" />
       </list>
     </recent_temporary>
   </component>
@@ -772,15 +778,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1154" y="0" width="1164" height="1440" extended-state="0" />
+    <frame x="1141" y="0" width="1177" height="1440" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49908924" visible="true" weight="0.18206039" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49908924" visible="true" weight="0.17822652" />
       <window_info id="TODO" order="2" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
       <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.50089127" side_tool="true" weight="0.22222222" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.34408602" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.3264526" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49910873" weight="0.22553517" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49910873" visible="true" weight="0.2828746" />
       <window_info id="Structure" order="1" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3297491" />
       <window_info id="Favorites" order="3" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
@@ -806,12 +812,12 @@
       <window_info id="TODO" order="2" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49910873" weight="0.34524715" />
       <window_info active="true" anchor="bottom" id="Python Console" order="8" visible="true" weight="0.3264526" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.23508354" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3297491" />
       <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.50089127" side_tool="true" weight="0.22222222" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.34408602" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Message" order="0" />
       <window_info id="Favorites" order="3" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
     </layout-to-restore>
   </component>
@@ -881,20 +887,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0601/heapsort.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0604/57. 3 Sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="25" selection-end-line="25" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Anaconda2/Lib/timeit.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
@@ -1216,15 +1208,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0723/Subarray Sum II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+        <state relative-caret-position="304">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/0724/merge.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="945">
-          <caret line="35" column="18" selection-start-line="35" selection-start-column="18" selection-end-line="35" selection-end-column="18" />
+        <state relative-caret-position="114">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0725/orderedDict.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0726/TopK.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
         </state>
       </provider>
     </entry>
