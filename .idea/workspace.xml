@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19dffaa6-d61f-4c72-bbbf-5a6b4dde1887" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/0726/TopK online.py" afterDir="false" />
+    <list default="true" id="19dffaa6-d61f-4c72-bbbf-5a6b4dde1887" name="Default" comment="lintcode">
+      <change afterPath="$PROJECT_DIR$/0726/top k frequent.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0726/TopK.py" beforeDir="false" afterPath="$PROJECT_DIR$/0726/TopK.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -66,7 +65,7 @@
       <file leaf-file-name="orderedDict.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0725/orderedDict.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="152">
               <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
             </state>
           </provider>
@@ -75,17 +74,26 @@
       <file leaf-file-name="TopK.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0726/TopK.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2170">
+            <state relative-caret-position="1178">
               <caret line="62" selection-start-line="62" selection-end-line="62" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TopK online.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TopK online.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0726/TopK online.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="743">
-              <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+            <state relative-caret-position="513">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="top k frequent.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0726/top k frequent.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -95,15 +103,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
               <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="daode.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Counter/daode.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3059">
-              <caret line="161" selection-start-line="161" selection-end-line="161" />
             </state>
           </provider>
         </entry>
@@ -134,7 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0605/5. Kth Largest Element.py" />
         <option value="$PROJECT_DIR$/0605/609. Two Sum.py" />
         <option value="$PROJECT_DIR$/0606/587. Two Sum - Unique pairs.py" />
         <option value="$PROJECT_DIR$/0606/533. Two Sum - Closest to target.py" />
@@ -185,6 +183,7 @@
         <option value="$PROJECT_DIR$/0725/orderedDict.py" />
         <option value="$PROJECT_DIR$/0726/TopK.py" />
         <option value="$PROJECT_DIR$/0726/TopK online.py" />
+        <option value="$PROJECT_DIR$/0726/top k frequent.py" />
       </list>
     </option>
   </component>
@@ -201,6 +200,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -252,7 +252,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -283,25 +282,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.TopK">
-    <configuration name="史记" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="TestProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Counter" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Counter/史记.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.top k frequent">
     <configuration name="405. Submatrix Sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TestProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -392,21 +373,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="top k frequent" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TestProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0726" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0726/top k frequent.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
       <item itemvalue="Python.464. Sort Integers II" />
       <item itemvalue="Python.405. Submatrix Sum" />
-      <item itemvalue="Python.史记" />
       <item itemvalue="Python.Subarray Sum II" />
       <item itemvalue="Python.orderedDict" />
       <item itemvalue="Python.TopK" />
+      <item itemvalue="Python.top k frequent" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.top k frequent" />
         <item itemvalue="Python.TopK" />
         <item itemvalue="Python.orderedDict" />
         <item itemvalue="Python.Subarray Sum II" />
         <item itemvalue="Python.405. Submatrix Sum" />
-        <item itemvalue="Python.史记" />
       </list>
     </recent_temporary>
   </component>
@@ -420,13 +419,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527128736001</updated>
-    </task>
-    <task id="LOCAL-00047" summary="0608">
-      <created>1528489856936</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1528489856936</updated>
     </task>
     <task id="LOCAL-00048" summary="0608">
       <created>1528491261545</created>
@@ -764,7 +756,14 @@
       <option name="project" value="LOCAL" />
       <updated>1532650389081</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="lintcode">
+      <created>1532652031806</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1532652031806</updated>
+    </task>
+    <option name="localTasksCounter" value="97" />
     <servers />
   </component>
   <component name="TodoView">
@@ -780,12 +779,12 @@
     <frame x="1141" y="0" width="1177" height="1440" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49908924" visible="true" weight="0.17822652" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49908924" visible="true" weight="0.17822652" />
       <window_info id="TODO" order="2" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
       <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.50089127" side_tool="true" weight="0.22222222" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.34408602" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.3264526" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49910873" visible="true" weight="0.2828746" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49910873" visible="true" weight="0.2828746" />
       <window_info id="Structure" order="1" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3297491" />
       <window_info id="Favorites" order="3" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
@@ -803,21 +802,21 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49908924" visible="true" weight="0.1360294" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Data View" order="3" />
       <window_info id="Structure" order="1" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="TODO" order="2" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.34408602" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49910873" weight="0.34524715" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="8" visible="true" weight="0.3264526" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.23508354" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.3297491" />
       <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.50089127" side_tool="true" weight="0.22222222" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.34408602" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Favorites" order="3" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="8" visible="true" weight="0.3264526" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -886,13 +885,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0605/609. Two Sum.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0606/587. Two Sum - Unique pairs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="608">
@@ -1214,22 +1206,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0725/orderedDict.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="152">
           <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0726/TopK.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2170">
-          <caret line="62" selection-start-line="62" selection-end-line="62" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/0726/TopK online.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="743">
-          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        <state relative-caret-position="513">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0726/TopK.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1178">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0726/top k frequent.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
         </state>
       </provider>
     </entry>
