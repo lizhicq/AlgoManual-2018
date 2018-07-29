@@ -3,13 +3,18 @@ class wordFreq(object):
         self.word = word
         self.freq = freq
 
-    def __cmp__(self, other):
+    # def __cmp__(self, other):
+    #     if self.freq == other.freq:
+    #         if self.word < other.word:
+    #             return 1
+    #         else:
+    #             return -1
+    #     return self.freq - other.freq
+
+    def __lt__(self, other):
         if self.freq == other.freq:
-            if self.word < other.word:
-                return 1
-            else:
-                return -1
-        return self.freq - other.freq
+            return self.word > other.word
+        return self.freq < other.freq
 
 class Solution:
     """
