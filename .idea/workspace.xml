@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19dffaa6-d61f-4c72-bbbf-5a6b4dde1887" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/0728/tokK frequent II.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/0728/LFU.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/TestProjects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/TestProjects.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0726/top k frequent online.py" beforeDir="false" afterPath="$PROJECT_DIR$/0726/top k frequent online.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0726/top k frequent.py" beforeDir="false" afterPath="$PROJECT_DIR$/0726/top k frequent.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0728/tokK frequent II.py" beforeDir="false" afterPath="$PROJECT_DIR$/0728/tokK frequent II.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,15 +25,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1140">
               <caret line="60" selection-start-line="60" selection-end-line="60" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="405. Submatrix Sum.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/0722/405. Submatrix Sum.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -102,14 +92,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tokK frequent II.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tokK frequent II.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0728/tokK frequent II.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="458">
-              <caret line="54" column="27" lean-forward="true" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
-              <folding>
-                <element signature="e#274#304#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-180">
+              <caret line="53" column="39" selection-start-line="53" selection-start-column="39" selection-end-line="53" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LFU.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/0728/LFU.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="667">
+              <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -140,7 +136,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0606/533. Two Sum - Closest to target.py" />
         <option value="$PROJECT_DIR$/0606/443. Two Sum - Greater than target.py" />
         <option value="$PROJECT_DIR$/0606/461. Kth Smallest Numbers in Unsorted Array.py" />
         <option value="$PROJECT_DIR$/0606/382. Triangle Count.py" />
@@ -191,6 +186,7 @@
         <option value="$PROJECT_DIR$/0726/top k frequent online.py" />
         <option value="$PROJECT_DIR$/0726/top k frequent.py" />
         <option value="$PROJECT_DIR$/0728/tokK frequent II.py" />
+        <option value="$PROJECT_DIR$/0728/LFU.py" />
       </list>
     </option>
   </component>
@@ -254,7 +250,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.tokK frequent II">
+  <component name="RunManager" selected="Python.LFU">
     <configuration name="464. Sort Integers II" type="PythonConfigurationType" factoryName="Python">
       <module name="TestProjects" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -268,6 +264,24 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0601/464. Sort Integers II.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="LFU" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="TestProjects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0728" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0728/LFU.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -288,24 +302,6 @@
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0726/TopK.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="orderedDict" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="TestProjects" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0725" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0725/orderedDict.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
@@ -365,19 +361,19 @@
     </configuration>
     <list>
       <item itemvalue="Python.464. Sort Integers II" />
-      <item itemvalue="Python.orderedDict" />
       <item itemvalue="Python.TopK" />
       <item itemvalue="Python.top k frequent" />
       <item itemvalue="Python.top k frequent online" />
       <item itemvalue="Python.tokK frequent II" />
+      <item itemvalue="Python.LFU" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.LFU" />
         <item itemvalue="Python.tokK frequent II" />
         <item itemvalue="Python.top k frequent" />
         <item itemvalue="Python.top k frequent online" />
         <item itemvalue="Python.TopK" />
-        <item itemvalue="Python.orderedDict" />
       </list>
     </recent_temporary>
   </component>
@@ -391,13 +387,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527128736001</updated>
-    </task>
-    <task id="LOCAL-00050" summary="0608">
-      <created>1528496282648</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1528496282649</updated>
     </task>
     <task id="LOCAL-00051" summary="0608">
       <created>1528496484409</created>
@@ -735,7 +724,14 @@
       <option name="project" value="LOCAL" />
       <updated>1532827386366</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="lintcode">
+      <created>1532905127022</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1532905127023</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="TodoView">
@@ -857,13 +853,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0606/443. Two Sum - Greater than target.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="26" selection-end-line="23" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0605/5. Kth Largest Element.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -1199,11 +1188,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0728/tokK frequent II.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="458">
-          <caret line="54" column="27" lean-forward="true" selection-start-line="54" selection-start-column="27" selection-end-line="54" selection-end-column="27" />
-          <folding>
-            <element signature="e#274#304#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-180">
+          <caret line="53" column="39" selection-start-line="53" selection-start-column="39" selection-end-line="53" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0728/LFU.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="667">
+          <caret line="25" column="33" lean-forward="true" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
         </state>
       </provider>
     </entry>
