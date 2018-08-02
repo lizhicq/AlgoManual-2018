@@ -3,9 +3,13 @@ class ConnectingGraph:
     @param: n: An integer
     """
     def __init__(self, n):
-        self.edges = {}
-        for i in range(1, n+1):
-            self.edges[i] = set()
+        self.father = [0 for _ in range(n+1)]
+
+    def find(self, x):
+        if self.father[x] == 0:
+            return x
+        self.father[x] = self.find(self.father[x])
+        return self.father[x]
 
     """
     @param: a: An integer
@@ -13,8 +17,10 @@ class ConnectingGraph:
     @return: nothing
     """
     def connect(self, a, b):
-        self.edges[a].add(b)
-        self.edges[b].add(a)
+        root_a = self.find(a)
+        root_b = self.find(b)
+        if root_a != root_b:
+            self.father[root_a] = root_b
 
     """
     @param: a: An integer
@@ -22,6 +28,6 @@ class ConnectingGraph:
     @return: A boolean
     """
     def query(self, a, b):
-        if b in self.edges[a]:
-            return True
-        return False
+        root_a = self.find(a)
+        root_b = self.find(b)
+        return root_a == root_b
