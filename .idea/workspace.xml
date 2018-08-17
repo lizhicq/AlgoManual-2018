@@ -2,112 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19dffaa6-d61f-4c72-bbbf-5a6b4dde1887" name="Default" comment="lintcode">
-      <change afterPath="$PROJECT_DIR$/July/0716/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/0717/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/0718/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/0719/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/0719/sell stock I.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/0720/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/0721/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/0722/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/0723/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/0724/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/0725/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/0726/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/0728/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/July/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/0601/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/0602/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/0603/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/0604/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/0605/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/0606/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/0607-Two Pointers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/0608-Two Pointers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/0609-BFS/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/0611/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/0612/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/0613/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/0616/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/0617/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/June/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/May/0529/183.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/May/0529/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/May/0530/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/May/0531/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/May/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0529/160.py" beforeDir="false" afterPath="$PROJECT_DIR$/May/0529/160.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0529/183.py" beforeDir="false" afterPath="$PROJECT_DIR$/0816/min_cut.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0529/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aug/0801/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0530/183.py" beforeDir="false" afterPath="$PROJECT_DIR$/May/0530/183.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0530/437.py" beforeDir="false" afterPath="$PROJECT_DIR$/May/0530/437.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0531/521.py" beforeDir="false" afterPath="$PROJECT_DIR$/May/0531/521.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0601/31. Partition Array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0601/464. Sort numbers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0601/heapsort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0601/mergesort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0601/quicksort.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0602/608. Two Sum II.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0603/143. Sort Colors II.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0604/57. 3 Sum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0604/604. Window Sum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0605/5. Kth Largest Element.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0605/609. Two Sum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0605/test5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0606/382. Triangle Count.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0606/443. Two Sum - Greater than target.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0606/461. Kth Smallest Numbers in Unsorted Array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0606/533. Two Sum - Closest to target.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0606/587. Two Sum - Unique pairs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0607-Two Pointers/102. Linked List Cycle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0607-Two Pointers/380. Intersection of Two Linked Lists.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0607-Two Pointers/610. Two Sum - Difference equals to target.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0607-Two Pointers/625. Partition Array II.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0607-Two Pointers/894. Pancake Sorting.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0608-Two Pointers/103. Linked List Cycle II.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0608-Two Pointers/58. 4Sum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0609-BFS/433. Number of Islands.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0609-BFS/69. Binary Tree Level Order Traversal.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0610-BFS/615. Course Schedule.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0610-BFS/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aug/0810/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0611/384. Longest Substring Without Repeating Characters.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0611/386. Longest Substring with At Most K Distinct Characters.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0611/406. Minimum Size Subarray Sum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0612/465. Kth Smallest Sum In Two Sorted Arrays.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0612/543. Kth Largest in N Arrays.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0613/242. Convert Binary Tree to Linked Lists by Depth.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0613/624. Remove Substrings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0616/120. Word Ladder.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0617/7. Serialize and Deserialize Binary Tree.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/0715-Data/129. Rehashing.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/0715-Data/129. Rehashing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0715-Data/130. Heapify.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/0715-Data/130. Heapify.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0715-Data/526 Load Balancer.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/0715-Data/526 Load Balancer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0716/Top K Frequent Words.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/0716/Top K Frequent Words.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0716/maxheap.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/0716/maxheap.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0717/zigzag iterator.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/0717/zigzag iterator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0718/224. Implement Three Stacks by Single Array.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/0718/224. Implement Three Stacks by Single Array.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0718/24. LFU Cache.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/0718/24. LFU Cache.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0718/575. Decode String.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/0718/575. Decode String.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0718/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aug/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0719/Range Sum Query 2D - Immutable.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/0719/Range Sum Query 2D - Immutable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0719/Range Sum Query 2D - Mutable.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/0719/Range Sum Query 2D - Mutable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0719/sell stock I.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/0715-Data/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0720/besttime.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/0720/besttime.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0721/Subarray Sum Closest.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/0721/Subarray Sum Closest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0721/maxsubarray5.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/0721/maxsubarray5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0722/405. Submatrix Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/0722/405. Submatrix Sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0723/Subarray Sum II.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/0723/Subarray Sum II.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0724/merge.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/0724/merge.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0725/orderedDict.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/0725/orderedDict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0726/TopK online.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/0726/TopK online.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0726/TopK.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/0726/TopK.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0726/top k frequent online.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/0726/top k frequent online.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0726/top k frequent.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/0726/top k frequent.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0728/LFU.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/0728/LFU.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0728/tokK frequent II.py" beforeDir="false" afterPath="$PROJECT_DIR$/July/0728/tokK frequent II.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0801/Connecting Graph.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aug/0801/Connecting Graph.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0810/Combination Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Aug/0810/Combination Sum.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -128,7 +23,7 @@
     <session id="-2053410047">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.opened" value="3" />
@@ -146,12 +41,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1322" />
+          <entry key="py" value="1324" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1322" />
+          <entry key="Python" value="1324" />
         </counts>
       </usages-collector>
     </session>
@@ -236,10 +131,10 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/0816/min_cut.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="17" column="25" lean-forward="true" selection-end-line="17" selection-end-column="25" />
+            <state relative-caret-position="390">
+              <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
               <folding>
-                <marker date="1534462916466" expanded="true" signature="23:29" ph="..." />
+                <marker date="1534463425866" expanded="true" signature="23:29" ph="..." />
               </folding>
             </state>
           </provider>
@@ -544,13 +439,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527128736001</updated>
-    </task>
-    <task id="LOCAL-00054" summary="0608">
-      <created>1528644195513</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1528644195514</updated>
     </task>
     <task id="LOCAL-00055" summary="0609">
       <created>1528644315792</created>
@@ -888,7 +776,14 @@
       <option name="project" value="LOCAL" />
       <updated>1534041974109</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="lintcode">
+      <created>1534462946389</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1534462946390</updated>
+    </task>
+    <option name="localTasksCounter" value="104" />
     <servers />
   </component>
   <component name="TodoView">
@@ -910,7 +805,7 @@
       <window_info id="Favorites" order="3" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49910873" visible="true" weight="0.28156084" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49910873" weight="0.28156084" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.23165138" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1349,10 +1244,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0816/min_cut.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="17" column="25" lean-forward="true" selection-end-line="17" selection-end-column="25" />
+        <state relative-caret-position="390">
+          <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
           <folding>
-            <marker date="1534462916466" expanded="true" signature="23:29" ph="..." />
+            <marker date="1534463425866" expanded="true" signature="23:29" ph="..." />
           </folding>
         </state>
       </provider>
