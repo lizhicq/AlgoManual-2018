@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="19dffaa6-d61f-4c72-bbbf-5a6b4dde1887" name="Default" comment="add reference">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="19dffaa6-d61f-4c72-bbbf-5a6b4dde1887" name="Default" comment="xudong">
+      <change beforePath="$PROJECT_DIR$/XuDong/Xudong.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/XuDong/Xudong.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,12 +42,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="py" value="1324" />
-          <entry key="txt" value="14" />
+          <entry key="txt" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="PLAIN_TEXT" value="14" />
+          <entry key="PLAIN_TEXT" value="20" />
           <entry key="Python" value="1324" />
         </counts>
       </usages-collector>
@@ -133,8 +133,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/0816/min_cut.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+            <state relative-caret-position="304">
+              <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
               <folding>
                 <marker date="1534463425866" expanded="true" signature="23:29" ph="..." />
               </folding>
@@ -257,6 +257,11 @@
               <item name="TestProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestProjects" type="462c0819:PsiDirectoryNode" />
               <item name="Reference" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TestProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestProjects" type="462c0819:PsiDirectoryNode" />
+              <item name="XuDong" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -447,20 +452,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527128736001</updated>
-    </task>
-    <task id="LOCAL-00056" summary="0609">
-      <created>1528661670463</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1528661670463</updated>
-    </task>
-    <task id="LOCAL-00057" summary="0609">
-      <created>1528661684143</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1528661684143</updated>
     </task>
     <task id="LOCAL-00058" summary="0609">
       <created>1528678161611</created>
@@ -791,7 +782,21 @@
       <option name="project" value="LOCAL" />
       <updated>1534471720806</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="xudong">
+      <created>1537645588943</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1537645588944</updated>
+    </task>
+    <task id="LOCAL-00106" summary="xudong">
+      <created>1537645615942</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1537645615942</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="TodoView">
@@ -805,6 +810,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-2292" y="4" width="1146" height="1440" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49908924" visible="true" weight="0.14079422" />
       <window_info id="Structure" order="1" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
@@ -900,7 +906,8 @@
     <MESSAGE value="0719" />
     <MESSAGE value="lintcode" />
     <MESSAGE value="add reference" />
-    <option name="LAST_COMMIT_MESSAGE" value="add reference" />
+    <MESSAGE value="xudong" />
+    <option name="LAST_COMMIT_MESSAGE" value="xudong" />
   </component>
   <component name="XDebuggerManager">
     <watches-manager>
@@ -1252,8 +1259,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/0816/min_cut.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+        <state relative-caret-position="304">
+          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
           <folding>
             <marker date="1534463425866" expanded="true" signature="23:29" ph="..." />
           </folding>
