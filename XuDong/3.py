@@ -61,30 +61,26 @@ class FileChecker(object):
     
 if __name__ == "__main__":
     from sys import argv
-    try:
-        sample = list(map(str, range(1,7)))
-        for v in argv[1:]:
-            if v not in sample:
-                print ('Please check input, only, support 1 ~ 6 check')
 
-        s = FileChecker('3.quotes.txt')
-        check = {'1':s.check1, 
-                 '2':s.check2,
-                 '3':s.check3,
-                 '4':s.check4,
-                 '5':s.check5,
-                 '6':s.check6,}
+    sample = list(map(str, range(1,7)))
+    for v in argv[1:]:
+        if v not in sample:
+            print ('Please check input, only, support 1 ~ 6 check')
+
+    s = FileChecker('3.quotes.txt')
+    check = {'1':s.check1, 
+             '2':s.check2,
+             '3':s.check3,
+             '4':s.check4,
+             '5':s.check5,
+             '6':s.check6,}
+    
+    flag = True
+    for v in argv[1:]:
+        if check[v]():
+            flag = False
+            break
+    
+    print(flag)
         
-        flag = True
-        for v in ['1','3','6']:
-            if check[v]():
-                flag = False
-                break
-        
-        print(flag)
-        
-        
-        
-    except:
-        raise ValueError('invalid input')
-        
+
