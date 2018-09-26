@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="19dffaa6-d61f-4c72-bbbf-5a6b4dde1887" name="Default" comment="xudong">
-      <change beforePath="$PROJECT_DIR$/XuDong/Xudong.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/XuDong/Xudong.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,32 +23,32 @@
     <session id="-2053410047">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="4" />
-          <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.4" value="2" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="2" />
+          <entry key="py" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="2" />
+          <entry key="Python" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1324" />
+          <entry key="py" value="1349" />
           <entry key="txt" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="20" />
-          <entry key="Python" value="1324" />
+          <entry key="Python" value="1349" />
         </counts>
       </usages-collector>
     </session>
@@ -58,15 +58,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/July/0726/TopK.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1178">
-              <caret line="62" selection-start-line="62" selection-end-line="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/July/0726/TopK online.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -130,14 +121,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/0816/min_cut.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            <state relative-caret-position="323">
+              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
               <folding>
                 <marker date="1534463425866" expanded="true" signature="23:29" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/XuDong/2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -177,7 +177,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0607/Partition Array II.py" />
         <option value="$PROJECT_DIR$/0607/625. Partition Array II.py" />
         <option value="$PROJECT_DIR$/0607/894. Pancake Sorting.py" />
         <option value="$PROJECT_DIR$/0607/610. Two Sum - Difference equals to target.py" />
@@ -228,6 +227,7 @@
         <option value="$PROJECT_DIR$/0801/Connecting Graph.py" />
         <option value="$PROJECT_DIR$/0810/Combination Sum.py" />
         <option value="$PROJECT_DIR$/0816/min_cut.py" />
+        <option value="$PROJECT_DIR$/XuDong/2.py" />
       </list>
     </option>
   </component>
@@ -245,7 +245,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -256,17 +255,13 @@
             <path>
               <item name="TestProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="TestProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="Reference" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="TestProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TestProjects" type="462c0819:PsiDirectoryNode" />
               <item name="XuDong" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -452,34 +447,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1527128736001</updated>
-    </task>
-    <task id="LOCAL-00058" summary="0609">
-      <created>1528678161611</created>
-      <option name="number" value="00058" />
-      <option name="presentableId" value="LOCAL-00058" />
-      <option name="project" value="LOCAL" />
-      <updated>1528678161611</updated>
-    </task>
-    <task id="LOCAL-00059" summary="0611">
-      <created>1528757698574</created>
-      <option name="number" value="00059" />
-      <option name="presentableId" value="LOCAL-00059" />
-      <option name="project" value="LOCAL" />
-      <updated>1528757698574</updated>
-    </task>
-    <task id="LOCAL-00060" summary="0611">
-      <created>1528763483226</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1528763483226</updated>
-    </task>
-    <task id="LOCAL-00061" summary="0611">
-      <created>1528764119810</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1528764119810</updated>
     </task>
     <task id="LOCAL-00062" summary="0611">
       <created>1528765604407</created>
@@ -796,7 +763,35 @@
       <option name="project" value="LOCAL" />
       <updated>1537645615942</updated>
     </task>
-    <option name="localTasksCounter" value="107" />
+    <task id="LOCAL-00107" summary="xudong">
+      <created>1537650917634</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1537650917634</updated>
+    </task>
+    <task id="LOCAL-00108" summary="xudong">
+      <created>1537650931370</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1537650931370</updated>
+    </task>
+    <task id="LOCAL-00109" summary="xudong">
+      <created>1537676559397</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1537676559397</updated>
+    </task>
+    <task id="LOCAL-00110" summary="xudong">
+      <created>1537676666114</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1537676666114</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
     <servers />
   </component>
   <component name="TodoView">
@@ -809,10 +804,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-2292" y="4" width="1146" height="1440" extended-state="0" />
-    <editor active="true" />
+    <frame x="1125" y="0" width="1124" height="1440" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49908924" visible="true" weight="0.14079422" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49908924" visible="true" weight="0.1436464" />
       <window_info id="Structure" order="1" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
       <window_info id="TODO" order="2" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
       <window_info id="Favorites" order="3" sideWeight="0.50091076" side_tool="true" weight="0.18165627" />
@@ -917,13 +911,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/June/0607-Two Pointers/894. Pancake Sorting.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" selection-end-line="31" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/June/0607-Two Pointers/102. Linked List Cycle.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -1250,6 +1237,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/0816/min_cut.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding>
+            <marker date="1534463425866" expanded="true" signature="23:29" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/Anaconda2/Lib/collections.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3002">
@@ -1257,13 +1254,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0816/min_cut.py">
+    <entry file="file://$PROJECT_DIR$/XuDong/2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-          <folding>
-            <marker date="1534463425866" expanded="true" signature="23:29" ph="..." />
-          </folding>
+        <state relative-caret-position="299">
+          <caret line="16" column="35" selection-start-line="16" selection-start-column="35" selection-end-line="17" />
         </state>
       </provider>
     </entry>
